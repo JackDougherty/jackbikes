@@ -10,7 +10,7 @@ header:
 ---
 See also [Posts by category](/categories/)
 
-Here's text, and below here's a wide iframe
+Here's text (trying layout:home), and below here's a wide iframe
 
 <iframe src="https://jackdougherty.github.io/bikemapcode" width="100%" height="500px"></iframe>
 
