@@ -4,8 +4,8 @@ permalink: /
 date: 2019-07-14
 layout: single
 header:
-  image: /images/header-1280w.jpg
-  image_description: "A description of the image"
+  image: /images/home/header-1280w.jpg
+  image_description: "bike touring photo"
 ---
 Here's text, and below here's a wide iframe
 
