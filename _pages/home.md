@@ -2,7 +2,7 @@
 title: ""
 permalink: /
 date: 2019-07-14
-layout: posts
+layout: home
 classes: wide
 header:
   image: /images/home/header-1280w.jpg
