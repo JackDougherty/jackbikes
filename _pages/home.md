@@ -2,10 +2,10 @@
 title: ""
 permalink: /
 date: 2019-07-14
-layout: single
+layout: splash
+classes: wide
 header:
-  overlay_image: /images/home/header-1280w.jpg
-  show_overlay_excerpt: false
+  image: /images/home/header-1280w.jpg
   image_description: "bike touring photo"
 ---
 Here's text, and below here's a wide iframe
