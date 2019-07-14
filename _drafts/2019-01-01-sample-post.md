@@ -3,21 +3,8 @@ title: 'Sample Post'
 date: 2019-01-01
 permalink: /2019/01/01/sample-post/
 categories:
-  - teaching
-  - advising
-  - scholarship
-  - presentation
-  - history
-  - policy
-  - Educational Studies
-  - Trinity College
+  - tours
   - Hartford
-  - community engagement
-  - technology
-  - tutorial
-  - GitHub
-  - data visualization
-  - web writing
 ---
 ### Link types
 - Visible link uses angle brackets <http://google.com>
