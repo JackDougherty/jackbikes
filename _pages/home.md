@@ -10,6 +10,8 @@ header:
 ---
 See also [Posts by category](/categories/)
 
+trying blank names
+
 Here's the page (using layout:posts with classes:wide), and below here's a wide iframe
 
 <iframe src="https://jackdougherty.github.io/bikemapcode" width="100%" height="500px"></iframe>
