@@ -1,7 +1,6 @@
 ---
 title: Bike Tours
 permalink: /tours/
-layout: wide
 date: 2019-07-14
 ---
 Touring by bike is my favorite way to explore the world around us. Explore my multi-day tours on the [full-screen map](https://jackdougherty.github.io/bikemapcode/index.html) or the smaller version embedded below:

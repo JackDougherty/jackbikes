@@ -2,8 +2,6 @@
 main:
 - title: "Home"
   url: /
-- title: "Posts"
-  url: /posts/
 - title: "Bike Tours"
   url: /tours/
 - title: "Around Hartford CT"

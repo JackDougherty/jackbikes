@@ -106,11 +106,30 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Jack Dougherty"
   avatar           : ""
-  bio              : ""
+  bio              : "adventure, advocacy, and an appetite on two wheels"
   # location         : " "
   # email            : " "
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:jackdrty@gmail.com
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "http://twitter.com/doughertyjack"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "http://www.facebook.com/jack.dougherty1"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "http://github.com/jackdougherty"
+    - label: "RSS feed"
+      icon: "fas fa-fw fa-rss-square"
+      url: "https://jackbikes.org/feed.xml"
+    - label: "Jack at Work"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "http://jackdougherty.org"
 
 # Site Footer
 footer:
