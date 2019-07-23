@@ -24,4 +24,4 @@ Rather than relying on everyone to play &#8220;follow the leader&#8221; on a dar
 
 Below is a smartphone-friendly version of the route that I created before our ride, with an option to download as GPX at the bottom of the screen. Next year, Pedal to the Medal would be welcome to embed this interactive map in its website, and encourage riders to access it via any smartphone web browser with this shortlink (<http://bit.ly/pedal2medal>, click to open in a full screen), or to download the GPX file to their bike-routing device before the event.
 
-<iframe src="https://jackdougherty.github.io/bikemapcode/pedal2medal.html" width="100%" height="500px"></iframe>
+<iframe src="https://jackdougherty.github.io/bikemapcode/pedal2medal.html" width="100%" height="600px"></iframe>
