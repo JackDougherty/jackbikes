@@ -26,7 +26,7 @@ REDO blog posts about my bike tours:
     <a href="http://jackbikes.org/2016/12/florida2017/" title="Southern Florida loop 2016-17">Southern Florida loop 2016-17</a>
   </li>
   <li >
-    <a href="http://jackbikes.org/2015/08/quebec/" title="Biking Le P&#8217;tit Train du Nord, Quebec 2015">Biking Le P&#8217;tit Train du Nord, Quebec 2015</a>
+    <a href="http://jackbikes.org/2015/08/quebec/" title="Biking Le P'tit Train du Nord, Quebec 2015">Biking Le P'tit Train du Nord, Quebec 2015</a>
   </li>
   <li >
     <a href="http://jackbikes.org/2015/05/cogap/" title="On the C&#038;O-GAP bike trail from DC to Pittsburgh, May 2015">On the C&O-GAP bike trail from DC to Pittsburgh, May 2015</a>

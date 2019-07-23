@@ -12,7 +12,7 @@ categories:
   - bike-tour-map
   - Seattle loop 2014
 ---
-Before leaving on this bike tour, my son Eli kindly helped his old man craft some code to integrate geotagged Flickr photos onto a map with a blue line to trace the route. Thanks for doing the heavy lifting, Eli, which code-fanatics can view on <a href="https://github.com/jackdougherty/Leaflet.Flickr" target="_blank" rel="noopener noreferrer">GitHub</a>. My job is to improve the map appearance and interactivity during this trip, so expect to see some changes (and there&#8217;s always the possibility that I&#8217;ll accidentally break the darn thing). Scroll around the map below OR <a href="https://jackdougherty.github.io/bikemapcode/#8/48.290/-122.64" target="_blank" rel="noopener noreferrer">click here to view the full-screen version</a>.
+Before leaving on this bike tour, my son Eli kindly helped his old man craft some code to integrate geotagged Flickr photos onto a map with a blue line to trace the route. Thanks for doing the heavy lifting, Eli, which code-fanatics can view on <a href="https://github.com/jackdougherty/Leaflet.Flickr" target="_blank" rel="noopener noreferrer">GitHub</a>. My job is to improve the map appearance and interactivity during this trip, so expect to see some changes (and there's always the possibility that I'll accidentally break the darn thing). Scroll around the map below OR <a href="https://jackdougherty.github.io/bikemapcode/#8/48.290/-122.64" target="_blank" rel="noopener noreferrer">click here to view the full-screen version</a>.
 
 <!-- iframe plugin v.4.4 wordpress.org/plugins/iframe/ -->
 
@@ -38,7 +38,7 @@ See also additional posts I wrote on this bike tour:
     <a href="http://jackbikes.org/2014/08/raccoons-foiled-at-sequim-bay-state-park/" title="Raccoons Foiled at Sequim Bay State Park">Raccoons Foiled at Sequim Bay State Park</a>
   </li>
   <li >
-    <a href="http://jackbikes.org/2014/08/what-ive-learned-about-bike-camping/" title="What I&#8217;ve learned about bike camping">What I&#8217;ve learned about bike camping</a>
+    <a href="http://jackbikes.org/2014/08/what-ive-learned-about-bike-camping/" title="What I've learned about bike camping">What I've learned about bike camping</a>
   </li>
   <li >
     <a href="http://jackbikes.org/2014/08/never-ride-on-an-empty-stomach/" title="Never ride on an empty stomach">Never ride on an empty stomach</a>

@@ -9,7 +9,7 @@ permalink: /2015/08/join-new-britain-ride/
 categories:
   - Hartford
 ---
-[<img class="alignright wp-image-331" src="http://jackbikes.org/wp-content/uploads/2015/06/DiscoverCT2015-187x300.jpg" alt="DiscoverCT2015" width="90" height="144" />](http://jackbikes.org/wp-content/uploads/2015/06/DiscoverCT2015-e1433702002670.jpg)Come join us in New Britain on Sunday, September 27th, 2015, for the second installment of the Discover Connecticut Bike Tour, co-sponsored by BikeWalkCT and the New Britain Museum of American Art. This is a family-friendly event, not a race, with options for 10, 25, and 50 miles rides. The registration fee also includes brunch at the museum! I&#8217;ll be riding as a marshal/mobile mechanic to help folks in case of flat tires.  [Learn more details and register for this event](http://www.bikewalkct.org/discover-ct-ride-series.html).
+[<img class="alignright wp-image-331" src="http://jackbikes.org/wp-content/uploads/2015/06/DiscoverCT2015-187x300.jpg" alt="DiscoverCT2015" width="90" height="144" />](http://jackbikes.org/wp-content/uploads/2015/06/DiscoverCT2015-e1433702002670.jpg)Come join us in New Britain on Sunday, September 27th, 2015, for the second installment of the Discover Connecticut Bike Tour, co-sponsored by BikeWalkCT and the New Britain Museum of American Art. This is a family-friendly event, not a race, with options for 10, 25, and 50 miles rides. The registration fee also includes brunch at the museum! I'll be riding as a marshal/mobile mechanic to help folks in case of flat tires.  [Learn more details and register for this event](http://www.bikewalkct.org/discover-ct-ride-series.html).
 
 Check out the 10, 25, and 50 mile routes on this mobile-friendly interactive map that works on all computer and smartphone browsers. See the [full-screen view](https://jackdougherty.github.io/bikemapcode/newbritain.html), or type this shortlink into your browser: **bit.ly/bikenewbrit**
 
@@ -35,4 +35,4 @@ The map above is also a mobile-friendly map that works on any smartphone, with n
         
         This web map is designed to supplement paper maps and cue sheets, not to replace them. This web map does NOT provide turn-by-turn directions. The mobile version requires a smartphone with GPS and internet service.  Always watch the road when biking, not your phone. If you need to use the web map during a ride, pull off to the side to view it safely. Remember that this is a free web tool, with no guarantee nor warranty.
         
-        To learn more about the open-source code, and how to modify or embed a map for your bike organization&#8217;s website, see <http://bit.ly/bikemapcode> or [email me](mailto:jack.dougherty@trincoll.edu).
+        To learn more about the open-source code, and how to modify or embed a map for your bike organization's website, see <http://bit.ly/bikemapcode> or [email me](mailto:jack.dougherty@trincoll.edu).

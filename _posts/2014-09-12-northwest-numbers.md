@@ -12,7 +12,7 @@ categories:
   - Portland loop 2014
   - Seattle loop 2014
 ---
-A numerical review of my bike tour, with apologies to <a href="http://harpers.org/departments/harpers-index/" target="_blank" rel="noopener noreferrer">Harper&#8217;s Index</a>
+A numerical review of my bike tour, with apologies to <a href="http://harpers.org/departments/harpers-index/" target="_blank" rel="noopener noreferrer">Harper's Index</a>
 
 Number of days spent biking around the Northwest in Aug-Sept 2014: 19
 
