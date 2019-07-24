@@ -24,7 +24,7 @@ url                      : "https://jackbikes.org" # https://mmistakes.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog" - BUT for GitHub Pages site with custom domain, there is NO subpath
 repository               : "jackdougherty/jackbikes"
 teaser                   : # teaser image path: "/images/photo.jpg"
-logo                     : "/images/home/jackbikes-temp-logo.jpg"
+logo                     : " "
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -106,8 +106,8 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
-  avatar           : ""
+  name             : "Jack Dougherty"
+  avatar           : "/images/home/jackbikeslogo.jpg"
   bio              : "adventure, advocacy, and an appetite on two wheels"
   # location         : " "
   # email            : " "
