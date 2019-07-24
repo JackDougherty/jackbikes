@@ -9,7 +9,8 @@ permalink: /2014/10/thanks-donors/
 classic-editor-remember:
   - classic-editor
 categories:
-  - East Coast Greenway 2014
+  - Tours
+  - East Coast Greenway
 ---
 &nbsp;
 

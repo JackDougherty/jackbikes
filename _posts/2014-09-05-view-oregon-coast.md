@@ -9,6 +9,6 @@ permalink: /2014/09/view-oregon-coast/
 classic-editor-remember:
   - classic-editor
 categories:
-  - Portland loop 2014
+  - Tours
 ---
 A very short video from one of the most spectacular days on my bike ride along the Oregon Coast. Enjoy!

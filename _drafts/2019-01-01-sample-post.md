@@ -5,6 +5,8 @@ permalink: /2019/01/01/sample-post/
 categories:
   - Tours
   - Hartford
+  - East Coast Greenway
+  - BikeMapCode
 ---
 ### Link types
 - Visible link uses angle brackets <http://google.com>

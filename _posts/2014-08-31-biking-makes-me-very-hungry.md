@@ -9,11 +9,11 @@ permalink: /2014/08/biking-makes-me-very-hungry/
 classic-editor-remember:
   - classic-editor
 categories:
-  - Seattle loop 2014
+  - Tours
 ---
 My goals for this bike trip are to have fun and lose weight. Well, at least I'm having fun. You'd think that riding 300 miles a week would automatically drop your weight. Think again, because that's not the way it's worked it, at least so far.<figure id="attachment_63" aria-describedby="caption-attachment-63" style="width: 547px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-63" src="http://jackbikes.org/wp-content/uploads/2014/08/WeightWeek1.jpg" alt="Pre-trip weight (left) vs. biking 300 miles (right)." width="547" height="239" srcset="https://jackbikes.org/wp-content/uploads/2014/08/WeightWeek1.jpg 547w, https://jackbikes.org/wp-content/uploads/2014/08/WeightWeek1-300x131.jpg 300w" sizes="(max-width: 547px) 100vw, 547px" />](http://jackbikes.org/wp-content/uploads/2014/08/WeightWeek1.jpg)<figcaption id="caption-attachment-63" class="wp-caption-text">What's wrong? My pre-trip weight (left) vs. biking 300 miles in 1 week (right). </figcaption></figure> 
+[<img class="size-full wp-image-63" src="http://jackbikes.org/wp-content/uploads/2014/08/WeightWeek1.jpg" alt="Pre-trip weight (left) vs. biking 300 miles (right)." width="547" height="239" srcset="https://jackbikes.org/wp-content/uploads/2014/08/WeightWeek1.jpg 547w, https://jackbikes.org/wp-content/uploads/2014/08/WeightWeek1-300x131.jpg 300w" sizes="(max-width: 547px) 100vw, 547px" />](http://jackbikes.org/wp-content/uploads/2014/08/WeightWeek1.jpg)<figcaption id="caption-attachment-63" class="wp-caption-text">What's wrong? My pre-trip weight (left) vs. biking 300 miles in 1 week (right). </figcaption></figure>
 
 [<img class="alignright size-medium wp-image-64" src="http://jackbikes.org/wp-content/uploads/2014/08/BakeryEdisonWA-300x260.jpg" alt="BakeryEdisonWA" width="300" height="260" srcset="https://jackbikes.org/wp-content/uploads/2014/08/BakeryEdisonWA-300x260.jpg 300w, https://jackbikes.org/wp-content/uploads/2014/08/BakeryEdisonWA.jpg 525w" sizes="(max-width: 300px) 100vw, 300px" />](http://jackbikes.org/wp-content/uploads/2014/08/BakeryEdisonWA.jpg)I can't quite figure out what's gone wrong with my otherwise excellent bike-to-lose weight plan. Perhaps it had something to do with the aromatic <a href="http://www.breadfarm.com/" target="_blank">Breadfarm Bakery</a> in Edison, WA (population 133), which tempted me in the door with the scent of chocolate babka. Research shows that biking long distances heightens one's sense of smell. I'm quite confident of that &#8220;fact.&#8221; And I also believe that the clerk must have stuck a cupcake in my bike bag when I wasn't looking, too.
 

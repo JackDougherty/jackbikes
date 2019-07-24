@@ -9,8 +9,7 @@ permalink: /2014/08/seattle-loop/
 classic-editor-remember:
   - classic-editor
 categories:
-  - bike-tour-map
-  - Seattle loop 2014
+  - Tours
 ---
 Before leaving on this bike tour, my son Eli kindly helped his old man craft some code to integrate geotagged Flickr photos onto a map with a blue line to trace the route. Thanks for doing the heavy lifting, Eli, which code-fanatics can view on <a href="https://github.com/jackdougherty/Leaflet.Flickr" target="_blank" rel="noopener noreferrer">GitHub</a>. My job is to improve the map appearance and interactivity during this trip, so expect to see some changes (and there's always the possibility that I'll accidentally break the darn thing). Scroll around the map below OR <a href="https://jackdougherty.github.io/bikemapcode/#8/48.290/-122.64" target="_blank" rel="noopener noreferrer">click here to view the full-screen version</a>.
 

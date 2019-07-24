@@ -9,9 +9,9 @@ permalink: /2014/08/never-ride-on-an-empty-stomach/
 classic-editor-remember:
   - classic-editor
 categories:
-  - Seattle loop 2014
+  - Tours
 ---
-<figure id="attachment_24" aria-describedby="caption-attachment-24" style="width: 289px" class="wp-caption alignright">[<img class="size-full wp-image-24" src="http://jackbikes.org/wp-content/uploads/2014/08/PreTripWeight.jpg" alt="My pre-trip weight. " width="289" height="239" />](http://jackbikes.org/wp-content/uploads/2014/08/PreTripWeight.jpg)<figcaption id="caption-attachment-24" class="wp-caption-text">My pre-trip weight. Hope to see it drop.</figcaption></figure> 
+<figure id="attachment_24" aria-describedby="caption-attachment-24" style="width: 289px" class="wp-caption alignright">[<img class="size-full wp-image-24" src="http://jackbikes.org/wp-content/uploads/2014/08/PreTripWeight.jpg" alt="My pre-trip weight. " width="289" height="239" />](http://jackbikes.org/wp-content/uploads/2014/08/PreTripWeight.jpg)<figcaption id="caption-attachment-24" class="wp-caption-text">My pre-trip weight. Hope to see it drop.</figcaption></figure>
 
 Today marks my first full ride, and I'm aiming for 60+ miles up Whidbey Island with my fully-loaded bike. Thanks to my sister Ellen for hosting me in her home last night, just north of Seattle. Her husband Rob kindly cooked us a fabulous salmon dinner last night, and a delicious egg and cheese sandwich, which I enjoyed much more than the food on my ferry. But all of this good chow reminds me of one of the many reasons why I'm riding my bike for three weeks: I'm trying to lose weight. My pre-trip weigh-in on Ellen's scale is 178.2 pounds. Stay tuned for the post-trip weight, as my track record isn't great in this department. Bike riding usually makes me very hungry.<figure id="attachment_25" aria-describedby="caption-attachment-25" style="width: 640px" class="wp-caption alignright">
 

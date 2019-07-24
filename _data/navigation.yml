@@ -2,9 +2,9 @@
 main:
 - title: "Home"
   url: /
-- title: "Bike Tours"
-  url: /tours/
+- title: "Bike Tours with Maps"
+  url: /categories/#tours
 - title: "Around Hartford CT"
-  url: /hartford/
-- title: "BikeMapCode"
-  url: /bikemapcode/
+  url: /categories/#hartford
+- title: "Posts by Category"
+  url: /categories/

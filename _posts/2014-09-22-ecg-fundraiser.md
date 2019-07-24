@@ -9,9 +9,10 @@ permalink: /2014/09/ecg-fundraiser/
 classic-editor-remember:
   - classic-editor
 categories:
-  - East Coast Greenway 2014
+  - Tours
+  - East Coast Greenway
 ---
-<figure id="attachment_125" aria-describedby="caption-attachment-125" style="width: 300px" class="wp-caption alignright">[<img class="wp-image-125 size-medium" src="http://jackbikes.org/wp-content/uploads/2014/09/JackCeceFredBikes-300x282.jpg" alt="JackCeceFredBikes" width="300" height="282" />](http://jackbikes.org/wp-content/uploads/2014/09/JackCeceFredBikes.jpg)<figcaption id="caption-attachment-125" class="wp-caption-text">Everyone wins with safe places to ride.</figcaption></figure> 
+<figure id="attachment_125" aria-describedby="caption-attachment-125" style="width: 300px" class="wp-caption alignright">[<img class="wp-image-125 size-medium" src="http://jackbikes.org/wp-content/uploads/2014/09/JackCeceFredBikes-300x282.jpg" alt="JackCeceFredBikes" width="300" height="282" />](http://jackbikes.org/wp-content/uploads/2014/09/JackCeceFredBikes.jpg)<figcaption id="caption-attachment-125" class="wp-caption-text">Everyone wins with safe places to ride.</figcaption></figure>
 
 Dear friends and family,
 
@@ -19,7 +20,7 @@ Dear friends and family,
 
 Here's your chance to donate to a good cause and put your name on a piece of real estate! Please contribute to my fundraiser for the <a href="http://www.greenway.org/" target="_blank">East Coast Greenway</a>, a non-profit organization that's creating bike and pedestrian trails from Maine to Florida. For my local friends, check out the ECG route through Hartford &#8212; <a href="http://www.opencyclemap.org/?zoom=12&lat=41.76561&lon=-72.68028&layers=B0000" target="_blank">the big red line on this map</a> &#8212; and follow it to New Haven CT and Providence RI, where communities are actively building more off-road bike paths.<figure id="attachment_147" aria-describedby="caption-attachment-147" style="width: 300px" class="wp-caption alignleft">
 
-<a href="http://www.opencyclemap.org/?zoom=12&lat=41.76561&lon=-72.68028&layers=B0000" target="_blank"><img class="wp-image-147 size-full" src="http://jackbikes.org/wp-content/uploads/2014/09/ECG-Hartford-e1411436287381.png" alt="Click to view East Coast Greenway" width="300" height="209" /></a><figcaption id="caption-attachment-147" class="wp-caption-text">Click to view East Coast Greenway route</figcaption></figure> 
+<a href="http://www.opencyclemap.org/?zoom=12&lat=41.76561&lon=-72.68028&layers=B0000" target="_blank"><img class="wp-image-147 size-full" src="http://jackbikes.org/wp-content/uploads/2014/09/ECG-Hartford-e1411436287381.png" alt="Click to view East Coast Greenway" width="300" height="209" /></a><figcaption id="caption-attachment-147" class="wp-caption-text">Click to view East Coast Greenway route</figcaption></figure>
 
 I believe in ECG's admirable track record. Hundreds of volunteers work to coordinate the construction of new trails to promote walking and biking. About 30 percent of their route is already firm-surface and traffic-free, and it's growing every month. I also support their strategy of building trails into major cities to connect communities with one another. Everyone wins when we have safe places to walk and ride.
 

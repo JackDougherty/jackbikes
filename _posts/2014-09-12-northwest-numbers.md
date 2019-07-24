@@ -9,8 +9,7 @@ permalink: /2014/09/northwest-numbers/
 classic-editor-remember:
   - classic-editor
 categories:
-  - Portland loop 2014
-  - Seattle loop 2014
+  - Tours
 ---
 A numerical review of my bike tour, with apologies to <a href="http://harpers.org/departments/harpers-index/" target="_blank" rel="noopener noreferrer">Harper's Index</a>
 
