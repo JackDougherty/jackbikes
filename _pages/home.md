@@ -3,7 +3,6 @@ title: ""
 permalink: /
 date: 2019-07-14
 layout: posts
-classes: wide
 header:
   image: /images/home/jackbikesheader1280w.jpg
   image_description: "bike photo montage"
@@ -12,7 +11,7 @@ Touring by bike is my favorite way to explore, because the experience is far ric
 
 <iframe src="https://jackdougherty.github.io/bikemapcode" width="100%" height="500px"></iframe>
 
-Bike touring resources:
+Bike touring resources: CONVERT to text with links, not list, to save space
   * [Adventure Cycling](https://www.adventurecycling.org) &#8211; provides excellent paper and digital maps, and an inspirational magazine
   * [East Coast Greenway](http://www.greenway.org/) &#8211; linking cities from Maine to Florida (including Hartford CT)
   * [Rails-to-Trails Conservancy](http://www.railstotrails.org/) &#8211; transforms old railways into public spaces
