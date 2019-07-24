@@ -3,8 +3,8 @@ title: 'Sample Post'
 date: 2019-01-01
 permalink: /2019/01/01/sample-post/
 categories:
-  - Tours
-  - Hartford
+  - Bike Tours with Maps
+  - Biking Around Hartford CT
   - East Coast Greenway
   - BikeMapCode
 ---

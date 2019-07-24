@@ -3,7 +3,7 @@ title: Lessons Learned from Pedal to the Medal 2018
 date: 2018-10-29T00:16:26-04:00
 permalink: /2018/10/lessons-learned-from-pedal-to-the-medal-2018/
 categories:
-  - Hartford
+  - Biking Around Hartford CT
 ---
 Congratulations to Chion Wolf and the Hartford Marathon Foundation for raising the necessary funds and organizing the first official [Pedal to the Medal](https://www.hartfordmarathon.com/pedal-to-the-medal/) event in the wee hours of Saturday, October 13th, 2018. This experience taught me several lessons, and the most important is: **Never underestimate Chion Wolf**. Despite people like me who suggested she was crazy to attempt this goal, Chion raised $20,000 in sponsorships during one month, which was necessary in order to pay expenses to support the event. Moreover, 240 equally crazy people registered and paid $55 each to participate in this sold-out fundraising event, with a portion of the proceeds to benefit [BiCiCo](http://bicico.org), Hartford's community bike shop. Starting at the ridiculously early, dark, and cold hour of 3:30am, cyclists gathered at the State Capitol (many adorned in costumes and bright lights) and joined for a group ride (not a race) along the 26-mile Hartford Marathon route, in order to finish by 6:30am and clear the path for the runners later that morning. Despite my negative predictions, the event was a wildly popular success. Let the record show that I was wrong, and Chion was right.
 
