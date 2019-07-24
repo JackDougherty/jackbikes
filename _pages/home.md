@@ -5,8 +5,8 @@ date: 2019-07-14
 layout: posts
 classes: wide
 header:
-  image: /images/home/header-1280w.jpg
-  image_description: "bike touring photo"
+  image: /images/home/jackbikesheader1280w.jpg
+  image_description: "bike photo montage"
 ---
 Touring by bike is my favorite way to explore, because the experience is far richer than by foot or by car. Read my [Bike Tours with Maps posts](https://jackbikes.org/categories/#tours) or click around the [interactive map](https://jackdougherty.github.io/bikemapcode/index.html):
 
@@ -20,7 +20,7 @@ Bike touring resources:
   * [PathLessPedaled.com](http://www.pathlesspedaled.com/) &#8211; bike travel and #supplelife advice, reviews, videos
   * [CyclingAbout.com](https://www.cyclingabout.com/) &#8211; international bike touring advice, reviews, videos
 
-INSERT another 1280-wide photo here
+### Around Hartford CT
 
 See also my posts on [Biking Around Hartford, Connecticut](https://jackbikes.org/categories/#hartford), and also learn more about local organizations to get connected with other people who also want to make cycling easier and safer for all.
 
