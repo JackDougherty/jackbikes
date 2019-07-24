@@ -18,13 +18,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "JackBikes.org"
 title_separator          : "-"
-name                     : " "
-description              : "adventure, advocacy, and an appetite on two wheels"
+name                     : ""
+description              : "JackBikes.org: bicycle touring, advocacy, Hartford CT"
 url                      : "https://jackbikes.org" # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-url
 baseurl                  : # the subpath of your site, e.g. "/blog" - BUT for GitHub Pages site with custom domain, there is NO subpath
 repository               : "jackdougherty/jackbikes"
 teaser                   : # teaser image path: "/images/photo.jpg"
-logo                     : " "
+logo                     : ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,7 +109,7 @@ author:
   name             : "Jack Dougherty"
   avatar           : "/images/home/jackbikeslogo.jpg"
   bio              : "adventure, advocacy, and an appetite on two wheels"
-  # location         : " "
+  location         : "Hartford, CT"
   # email            : " "
   links:
     - label: "Email"
