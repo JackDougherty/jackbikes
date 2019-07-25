@@ -73,7 +73,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : "013085101550684322219:3tmcf9ayrue"
+  search_engine_id       : "013085101550684322219:8g4qj_60qni"
   instant_search         : true
 # SEO Related
 google_site_verification :
