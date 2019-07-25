@@ -1,15 +1,9 @@
 ---
-id: 112
 title: Biking to meet Trinity alums in Eugene, Oregon
 date: 2014-09-08T12:33:21-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=112
 permalink: /2014/09/trinity-alumni/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 On my <a href="http://jackbikes.org/photo-maps/" target="_blank">Northwest bike tour</a>, I was delighted to receive an invitation to visit one of my former students, Laurie Gutmann Kahn, and her husband Josh, both from Trinity College's Class of 2003. Laurie double-majored in Ed Studies and Sociology, and as a student in my <a href="http://commons.trincoll.edu/cssp/about/" target="_blank">Cities Suburbs and Schools seminar</a>, she conducted oral history interviews with adults who had participated in the Project Concern school integration transfer program from Hartford to suburban schools during the 1960s-1990s. After that semester, Laurie and another student continued working on the project through an independent study, which culminated in her <a href="http://digitalrepository.trincoll.edu/cssp_papers/17/" target="_blank">senior research project</a>. After Trinity, Laurie taught special education through the New York City Teaching Fellows alternate route program, and she has talked about her experience with current Trinity students through our <a href="http://commons.trincoll.edu/jackdougherty/2013/10/08/pathways/" target="_blank">Pathways to Teaching alumni video conferences</a>. More recently, Laurie received a US Department of Education fellowship to attend graduate school at the University of Oregon, and this May was awarded her Ph.D. in Special Education with her ethnographic dissertation on lesbian/gay/transgender youth and their experiences with disabilities. This fall she has been hired to teach courses by the Department of Educational Studies at the University of Oregon. Congratulations, Dr. Laurie Gutmann Kahn!<figure id="attachment_114" aria-describedby="caption-attachment-114" style="width: 640px" class="wp-caption aligncenter">
 

@@ -1,15 +1,9 @@
 ---
-id: 28
 title: 'What I've learned about bike camping'
 date: 2014-08-27T11:19:45-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=28
 permalink: /2014/08/what-ive-learned-about-bike-camping/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 Three days into this tour and I've learned that one of my favorite things about tent camping by bike in the Northwest during this time of year are conversations you strike up with friendly people along the way. It certainly helps that the weather is perfect: highs in the upper 70s, lows in the mid-50s, and virtually no chance of rain this week. (If it was raining, like Seattle experiences the rest of the year, this would really suck.)<figure id="attachment_29" aria-describedby="caption-attachment-29" style="width: 304px" class="wp-caption alignright">
 

@@ -1,15 +1,9 @@
 ---
-id: 124
 title: 'I'll rename a city or state for your East Coast Greenway donation'
 date: 2014-09-22T01:10:24-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=124
 permalink: /2014/09/ecg-fundraiser/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
   - East Coast Greenway
 ---
 <figure id="attachment_125" aria-describedby="caption-attachment-125" style="width: 300px" class="wp-caption alignright">[<img class="wp-image-125 size-medium" src="http://jackbikes.org/wp-content/uploads/2014/09/JackCeceFredBikes-300x282.jpg" alt="JackCeceFredBikes" width="300" height="282" />](http://jackbikes.org/wp-content/uploads/2014/09/JackCeceFredBikes.jpg)<figcaption id="caption-attachment-125" class="wp-caption-text">Everyone wins with safe places to ride.</figcaption></figure>

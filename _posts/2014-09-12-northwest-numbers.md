@@ -1,15 +1,9 @@
 ---
-id: 139
 title: Northwest bike tour, by the numbers
 date: 2014-09-12T17:37:11-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=139
 permalink: /2014/09/northwest-numbers/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 A numerical review of my bike tour, with apologies to <a href="http://harpers.org/departments/harpers-index/" target="_blank" rel="noopener noreferrer">Harper's Index</a>
 

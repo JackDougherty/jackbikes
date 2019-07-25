@@ -1,13 +1,9 @@
 ---
-id: 504
 title: Three friendly bike rides in Hartford region in Fall 2016
 date: 2016-09-12T20:01:15-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=504
 permalink: /2016/09/three-friendly-bike-rides/
 categories:
-  - Hartford
+  - Around Hartford CT
 ---
 Come join us on three friendly bike rides coming up in the Hartford region this fall:
 

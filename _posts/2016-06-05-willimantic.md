@@ -1,15 +1,11 @@
 ---
-id: 453
 title: 'Willimantic: The Cycling Trail Connector'
 date: 2016-06-05T23:11:31-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=453
 permalink: /2016/06/willimantic/
 categories:
-  - Hartford
+  - Around Hartford CT
 ---
-<figure id="attachment_456" aria-describedby="caption-attachment-456" style="width: 660px" class="wp-caption aligncenter">[<img class="size-large wp-image-456" src="http://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic-1024x767.jpg" alt="Click the image to enlarge" width="660" height="494" srcset="https://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic-1024x767.jpg 1024w, https://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic-300x225.jpg 300w, https://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic-768x576.jpg 768w" sizes="(max-width: 660px) 100vw, 660px" />](http://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic.jpg)<figcaption id="caption-attachment-456" class="wp-caption-text">Click the image to enlarge and read this historical marker about the Air Line and Hop River trails</figcaption></figure> 
+<figure id="attachment_456" aria-describedby="caption-attachment-456" style="width: 660px" class="wp-caption aligncenter">[<img class="size-large wp-image-456" src="http://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic-1024x767.jpg" alt="Click the image to enlarge" width="660" height="494" srcset="https://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic-1024x767.jpg 1024w, https://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic-300x225.jpg 300w, https://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic-768x576.jpg 768w" sizes="(max-width: 660px) 100vw, 660px" />](http://jackbikes.org/wp-content/uploads/2016/06/2016-06-04-Air-Line-Hop-River-trail-sign-Willimantic.jpg)<figcaption id="caption-attachment-456" class="wp-caption-text">Click the image to enlarge and read this historical marker about the Air Line and Hop River trails</figcaption></figure>
 
 To celebrate National Trails Day,  I rode the [East Coast Greenway](http://greenway.org) from Hartford to Willimantic, to see the newly-opened connector. In Bolton, I jumped on the Hop River Trail and pedaled southeast along this old railway bed, covered by wonderful shade trees. When this trail ended, I pedaled about a mile on the road west of town, then switched onto the brand-new trail that runs along the Willimantic river. While this new trail is relatively short, it now gives Hop River riders a way to avoid highway traffic into downtown Willimantic, or to cross a bridge to connect to the Air Line south trail to East Hampton. I took both options, first by zipping into town for a late breakfast at the Willimantic Food Co-op, then back across the bridge for a ride on the Air Line south trail, where I encountered dozens of cyclists and hikers enjoying the day as much as I did.
 

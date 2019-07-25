@@ -1,16 +1,9 @@
 ---
-id: 238
 title: Free bike-friendly map for your website
 date: 2014-11-06T18:35:12-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=238
 permalink: /2014/11/bikemapcode/
-classic-editor-remember:
-  - classic-editor
 categories:
   - BikeMapCode
-  - Hartford
 ---
 Does your cycling organization need to display customized bike routes on your website? Try <a href="http://bit.ly/bikemapcode" target="_blank">http://bit.ly/bikemapcode</a>, a free and open-source tool that can easily be modified and embedded in your website.<figure id="attachment_243" aria-describedby="caption-attachment-243" style="width: 600px" class="wp-caption aligncenter">
 

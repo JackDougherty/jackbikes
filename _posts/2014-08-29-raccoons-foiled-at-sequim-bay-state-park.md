@@ -1,15 +1,9 @@
 ---
-id: 35
 title: Raccoons Foiled at Sequim Bay State Park
 date: 2014-08-29T10:57:33-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=35
 permalink: /2014/08/raccoons-foiled-at-sequim-bay-state-park/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 <figure id="attachment_39" aria-describedby="caption-attachment-39" style="width: 225px" class="wp-caption alignright">[<img class="size-medium wp-image-39" src="http://jackbikes.org/wp-content/uploads/2014/08/RaccoonsFoiled-e1409324362571-225x300.jpg" alt="Hanging my food bags (and wet clothing) on the wire at Sequim Bay State Park." width="225" height="300" srcset="https://jackbikes.org/wp-content/uploads/2014/08/RaccoonsFoiled-e1409324362571-225x300.jpg 225w, https://jackbikes.org/wp-content/uploads/2014/08/RaccoonsFoiled-e1409324362571.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" />](http://jackbikes.org/wp-content/uploads/2014/08/RaccoonsFoiled-e1409324362571.jpg)<figcaption id="caption-attachment-39" class="wp-caption-text">Hanging my food bags (and wet clothing) on the wire at Sequim Bay State Park.</figcaption></figure>
 

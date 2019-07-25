@@ -1,13 +1,9 @@
 ---
-id: 442
 title: 'Reading <em>Outside Lies Magic</em>'
 date: 2016-05-29T09:37:28-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=442
 permalink: /2016/05/reading-outside-lies-magic/
 categories:
-  - Hartford
+  - Reflections
 ---
 [<img class="alignright size-full wp-image-443" src="http://jackbikes.org/wp-content/uploads/2016/05/Stilgoe-outside-lies-magic.jpg" alt="Stilgoe-outside-lies-magic" width="309" height="499" srcset="https://jackbikes.org/wp-content/uploads/2016/05/Stilgoe-outside-lies-magic.jpg 309w, https://jackbikes.org/wp-content/uploads/2016/05/Stilgoe-outside-lies-magic-186x300.jpg 186w" sizes="(max-width: 309px) 100vw, 309px" />](http://jackbikes.org/wp-content/uploads/2016/05/Stilgoe-outside-lies-magic.jpg)My new friend Jeff Allred at Hunter College learned of our shared interest in cycling, and recommended that I read John Stilgoe's _Outside Lies Magic: Regaining History and Awareness in Everyday Places_. His book reveals what &#8220;the explorer,&#8221; traveling by foot or bicycle, can discover by looking more closely at ordinary objects that most of us pass by, especially when trapped inside the metal box of a motor car. This wide-ranging set of essays rambles across multiple topics, and many of these resonated with my own memories of what I've seen while riding a bike, though Stilgoe has taught me to take a second look. My favorite passage is his observation about fences:
 

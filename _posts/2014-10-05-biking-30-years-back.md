@@ -1,16 +1,11 @@
 ---
-id: 168
 title: Biking 30 years back into my past in Chester, PA
 date: 2014-10-05T23:40:54-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=168
 permalink: /2014/10/biking-30-years-back/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
   - East Coast Greenway
+  - Reflections
 ---
 Today was the first day of my ride with the <a href="http://greenway.org" target="_blank">East Coast Greenway</a>, the non-profit organization that connects communities from Maine to Florida with cycling and walking trails. Our group of forty biked along Philadelphia's beautiful <a href="http://www.schuylkillrivertrail.com/" target="_blank">Schuylkill River Trail</a>, the brand-new <a href="https://www.schuylkillbanks.org/" target="_blank">Schuylkill Banks Boardwalk</a>, and the tranquil <a href="http://www.fws.gov/refuge/John_Heinz/" target="_blank">John Heinz National Wildlife Refuge</a>. But the portion of today's trip that is still rolling through my mind is our ride through the impoverished city of Chester, PA, because it's challenging me to deal with my memories of living and working there as a twenty-year-old. Although this experience deeply shaped me as the person I became, today's ride forced me to confront the painful fact that I have not returned to this city in nearly thirty years, thereby abandoning it in the same way that I criticized others for doing decades ago.<figure id="attachment_177" aria-describedby="caption-attachment-177" style="width: 400px" class="wp-caption alignright">
 

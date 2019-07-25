@@ -1,15 +1,10 @@
 ---
-id: 86
 title: Biking with Eleanor Roosevelt
 date: 2014-09-03T02:05:55-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=86
 permalink: /2014/09/biking-with-eleanor-roosevelt/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
+  - Reflections
 ---
 <figure id="attachment_87" aria-describedby="caption-attachment-87" style="width: 220px" class="wp-caption alignright">[<img class="size-full wp-image-87" src="http://jackbikes.org/wp-content/uploads/2014/09/220px-Eleanor_Roosevelt_portrait_1933.jpg" alt="Eleanor Roosevelt (Wikimedia)" width="220" height="267" />](http://jackbikes.org/wp-content/uploads/2014/09/220px-Eleanor_Roosevelt_portrait_1933.jpg)<figcaption id="caption-attachment-87" class="wp-caption-text">Eleanor Roosevelt (Wikimedia)</figcaption></figure>
 

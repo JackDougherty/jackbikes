@@ -1,15 +1,9 @@
 ---
-id: 80
 title: Follow my Portland-Oregon Coast loop 2014
 date: 2014-09-03T00:28:36-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=80
 permalink: /2014/09/portland-oregon-loop-2014/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 After completing my Seattle-Vancouver one-week loop, I was puzzling over how to do a Portland-Oregon Coast loop in less than two weeks. The problem was that riding from Seattle to Portland would take me 3 full days, plus 3 more to get back, which would seriously cut into the fun parts of the Oregon Coast. Speedier cyclists like my friend Chris Payne do most or all of this 200-mile jaunt in one day on the annual STP, or <a href="http://www.cascade.org/STProute" target="_blank" rel="noopener noreferrer">Seattle to Portland ride</a>, but that's much faster than the 75-mile per day maximum I can handle on my touring bike with 50+ pounds of camping gear. I needed to find another way. Fortunately, my sister Kris's friend Hooper put the idea in my head to jump ahead to Portland to begin my ride. Turns out that the Amtrak Cascades train runs frequently from Seattle to Portland (and other stops) at a reasonable fare ($30-50), and charges only $5 extra to load your fully-assembled bike into their <a href="log.amtrak.com/2014/06/new-baggage-cars/" target="_blank" rel="noopener noreferrer">newly-designed baggage car</a>, with no box required. Wonderful!<figure id="attachment_83" aria-describedby="caption-attachment-83" style="width: 225px" class="wp-caption alignright">
 

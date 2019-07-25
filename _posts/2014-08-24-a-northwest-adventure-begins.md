@@ -1,15 +1,9 @@
 ---
-id: 8
 title: A Northwest adventure begins
 date: 2014-08-24T23:34:25-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=8
 permalink: /2014/08/a-northwest-adventure-begins/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 <figure id="attachment_10" aria-describedby="caption-attachment-10" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-10" src="http://jackbikes.org/wp-content/uploads/2014/08/CeceJackFreddy-300x225.jpg" alt="My niece Cece and nephew Freddy help me set off on my bike tour." width="300" height="225" srcset="https://jackbikes.org/wp-content/uploads/2014/08/CeceJackFreddy-300x225.jpg 300w, https://jackbikes.org/wp-content/uploads/2014/08/CeceJackFreddy-1024x768.jpg 1024w, https://jackbikes.org/wp-content/uploads/2014/08/CeceJackFreddy-624x468.jpg 624w, https://jackbikes.org/wp-content/uploads/2014/08/CeceJackFreddy.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />](http://jackbikes.org/wp-content/uploads/2014/08/CeceJackFreddy.jpg)<figcaption id="caption-attachment-10" class="wp-caption-text">My niece Cece and nephew Freddy help launch my ride.</figcaption></figure>
 

@@ -1,15 +1,9 @@
 ---
-id: 22
 title: Never ride on an empty stomach
 date: 2014-08-25T12:09:22-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=22
 permalink: /2014/08/never-ride-on-an-empty-stomach/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 <figure id="attachment_24" aria-describedby="caption-attachment-24" style="width: 289px" class="wp-caption alignright">[<img class="size-full wp-image-24" src="http://jackbikes.org/wp-content/uploads/2014/08/PreTripWeight.jpg" alt="My pre-trip weight. " width="289" height="239" />](http://jackbikes.org/wp-content/uploads/2014/08/PreTripWeight.jpg)<figcaption id="caption-attachment-24" class="wp-caption-text">My pre-trip weight. Hope to see it drop.</figcaption></figure>
 

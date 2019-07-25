@@ -1,15 +1,9 @@
 ---
-id: 50
 title: How I Fell in Love with Biking British Columbia
 date: 2014-08-31T18:11:36-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=50
 permalink: /2014/08/how-i-fell-in-love-with-biking-british-columbia/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 <figure id="attachment_51" aria-describedby="caption-attachment-51" style="width: 258px" class="wp-caption alignright">[<img class="size-medium wp-image-51" src="http://jackbikes.org/wp-content/uploads/2014/08/AutoMallBikeLaneSurreyBC-258x300.jpg" alt="Even the auto mall road has a bike lane in Surrey BC." width="258" height="300" srcset="https://jackbikes.org/wp-content/uploads/2014/08/AutoMallBikeLaneSurreyBC-258x300.jpg 258w, https://jackbikes.org/wp-content/uploads/2014/08/AutoMallBikeLaneSurreyBC.jpg 458w" sizes="(max-width: 258px) 100vw, 258px" />](http://jackbikes.org/wp-content/uploads/2014/08/AutoMallBikeLaneSurreyBC.jpg)<figcaption id="caption-attachment-51" class="wp-caption-text">Even the auto mall has a bike lane.</figcaption></figure>
 

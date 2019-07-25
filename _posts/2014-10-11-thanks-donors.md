@@ -1,19 +1,11 @@
 ---
-id: 210
 title: Thanks to my East Coast Greenway donors
 date: 2014-10-11T17:05:44-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=210
 permalink: /2014/10/thanks-donors/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
   - East Coast Greenway
 ---
-&nbsp;
-
 Thanks to everyone who generously contributed to my fundraiser for the <a href="http://greenway.org" target="_blank">East Coast Greenway</a>, a wonderful organization that works with local partners to build a network of bike-and-pedestrian paths from Maine to Florida. I just returned from the ECG's &#8220;<a href="http://www.greenway.org/way-tour-2014" target="_blank">One Week A Year</a>&#8221; tour, where forty of my new best friends and I pedaled about 275 miles from Philadelphia to Washington DC (where I had to jump off to go to a work event, but they kept going the full 325 miles to Fredericksburg VA). My donors contributed $680, and the organization as a whole raised over $43,000. You can still donate <a title="I’ll rename a city or state for your East Coast Greenway donation" href="http://www.firstgiving.com/fundraiser/JackDougherty/2014-week-a-year-bike-tour" target="_blank">here</a>.
 
 [<img class="alignright size-medium wp-image-202" src="http://jackbikes.org/wp-content/uploads/2014/10/ECG-sign-dc-225x300.jpg" alt="ECG-sign-dc" width="225" height="300" srcset="https://jackbikes.org/wp-content/uploads/2014/10/ECG-sign-dc-225x300.jpg 225w, https://jackbikes.org/wp-content/uploads/2014/10/ECG-sign-dc.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" />](http://jackbikes.org/wp-content/uploads/2014/10/ECG-sign-dc.jpg)As promised, <a title="I’ll rename a city or state for your East Coast Greenway donation" href="http://jackbikes.org/2014/09/ecg-fundraiser/" target="_blank">I re-named cities and states on my route for each donor</a>. Each road sign photo below was stolen from someone's website and personally Photoshopped by me, with great haste, in your honor. (Full disclosure: I didn't actually see any of these signs! While I originally planned to snap my own photos, turns out that we rarely saw &#8220;Welcome to. . .&#8221; signage along our bike route. Originally, I planned to snap pictures myself, but it turns out that we rarely saw &#8220;Welcome to. . &#8221; road signs on our bike route, since transportation departments apparently save those for the busier interstate highways.) Instead, we saw several small markers for the East Coast Greenway, and this large one when entering northeast Washington, DC.

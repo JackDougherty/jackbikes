@@ -1,15 +1,9 @@
 ---
-id: 58
 title: Roaming Canadian Roads (without roaming charges)
 date: 2014-08-31T18:45:28-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=58
 permalink: /2014/08/roaming-canadian-roads/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 I love me some maps. Can't leave home without 'em. So for my bike tour I sought out a replacement for the Google Maps app on my smartphone, since there are times when I cannot access a cellphone signal, or more commonly, would prefer not to pay roaming charges to my provider for venturing into Canada.<figure id="attachment_60" aria-describedby="caption-attachment-60" style="width: 181px" class="wp-caption alignright">
 

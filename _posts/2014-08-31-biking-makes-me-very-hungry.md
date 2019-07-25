@@ -1,15 +1,9 @@
 ---
-id: 62
 title: Biking makes me VERY hungry
 date: 2014-08-31T19:59:26-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=62
 permalink: /2014/08/biking-makes-me-very-hungry/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 My goals for this bike trip are to have fun and lose weight. Well, at least I'm having fun. You'd think that riding 300 miles a week would automatically drop your weight. Think again, because that's not the way it's worked it, at least so far.<figure id="attachment_63" aria-describedby="caption-attachment-63" style="width: 547px" class="wp-caption aligncenter">
 

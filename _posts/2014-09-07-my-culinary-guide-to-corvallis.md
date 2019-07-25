@@ -1,15 +1,9 @@
 ---
-id: 105
 title: My Culinary Guide to Corvallis
 date: 2014-09-07T00:59:28-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=105
 permalink: /2014/09/my-culinary-guide-to-corvallis/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 <figure id="attachment_106" aria-describedby="caption-attachment-106" style="width: 225px" class="wp-caption alignright">[<img class="size-medium wp-image-106" src="http://jackbikes.org/wp-content/uploads/2014/09/MountainBikeTrailOR-225x300.jpg" alt="My expression on realizing that I was headed onto a mountain bike trail." width="225" height="300" srcset="https://jackbikes.org/wp-content/uploads/2014/09/MountainBikeTrailOR-225x300.jpg 225w, https://jackbikes.org/wp-content/uploads/2014/09/MountainBikeTrailOR.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" />](http://jackbikes.org/wp-content/uploads/2014/09/MountainBikeTrailOR.jpg)<figcaption id="caption-attachment-106" class="wp-caption-text">My expression when realizing I was on a mountain bike trail.</figcaption></figure>
 

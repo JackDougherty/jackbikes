@@ -1,15 +1,9 @@
 ---
-id: 90
 title: Biking Hills versus Tunnels
 date: 2014-09-04T22:44:27-04:00
-author: Jack Dougherty
-layout: post
-guid: http://jackbikes.org/?p=90
 permalink: /2014/09/biking-hills-versus-tunnels/
-classic-editor-remember:
-  - classic-editor
 categories:
-  - Tours
+  - Tours with Maps
 ---
 <figure id="attachment_91" aria-describedby="caption-attachment-91" style="width: 208px" class="wp-caption alignright">[<img class="size-full wp-image-91" src="http://jackbikes.org/wp-content/uploads/2014/09/CapeLookoutHill.jpg" alt="Climbed 850 feet within 2 miles, just south of Cape Lookout State Park." width="208" height="251" />](http://jackbikes.org/wp-content/uploads/2014/09/CapeLookoutHill.jpg)<figcaption id="caption-attachment-91" class="wp-caption-text">Climbed 850 feet within 2 miles, just south of Cape Lookout State Park.</figcaption></figure>
 

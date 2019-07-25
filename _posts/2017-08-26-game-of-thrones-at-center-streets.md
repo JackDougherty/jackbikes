@@ -3,7 +3,7 @@ title: 'Game of Thrones Mixup with West Hartford Center Streets'
 date: 2017-08-26T18:39:38-04:00
 permalink: /2017/08/game-of-thrones-at-center-streets/
 categories:
-  - Hartford
+  - Around Hartford CT
 ---
 {% include figure image_path="images/2017/center-streets-game-of-thrones-mixup-2017.png" caption="Contrary to rumors, HBO's _Game of Thrones_ cast will NOT appear at West Hartford Center Streets." %}
 
