@@ -7,8 +7,8 @@ header:
   image: /images/home/jackbikesheader1280w.jpg
   image_description: "JackBikes photo montage"
 ---
-When touring by bike, I see far more of the world than by foot or inside a car. Read my [**Tours with Maps posts**](https://jackbikes.org/categories/#tours-with-maps) or click on the [interactive map](https://jackdougherty.github.io/bikemapcode/index.html). See also bike touring resources from [Adventure Cycling](https://www.adventurecycling.org), [East Coast Greenway](http://www.greenway.org/), [Rails-to-Trails](http://www.railstotrails.org/), and [Warmshowers](http://warmshowers.org).
+When touring by bike, I experience far more of the world than by foot or inside a car. Read my [**Tours with Maps posts**](https://jackbikes.org/categories/#tours-with-maps) or click on the [interactive map](https://jackdougherty.github.io/bikemapcode/index.html). See bike touring resources from [Adventure Cycling](https://www.adventurecycling.org), [East Coast Greenway](http://www.greenway.org/), [Rails-to-Trails](http://www.railstotrails.org/), and [Warmshowers](http://warmshowers.org).
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/#3/40.10/-95.90" width="95%" height="400px"></iframe>
 
-See also my [**Biking Around Hartford CT posts**](https://jackbikes.org/categories/#around-hartford-ct), and learn about local organizations that advocate to make cycling easier and safer for all, such as the [BiCi Co.](http://bicico.org/) community bike shop, [Transport Hartford](http://transporthartford.org/), [BikeWalkCT](http://www.bikewalkct.org/), and [Bike West Hartford](http://bikewesthartford.org/).
+See also my biking [**Around Hartford CT posts**](https://jackbikes.org/categories/#around-hartford-ct), and learn about local organizations seeking to make cycling easier and safer for all, such as the [BiCi Co.](http://bicico.org/) community bike shop, [Transport Hartford](http://transporthartford.org/), [BikeWalkCT](http://www.bikewalkct.org/), and [Bike West Hartford](http://bikewesthartford.org/).
