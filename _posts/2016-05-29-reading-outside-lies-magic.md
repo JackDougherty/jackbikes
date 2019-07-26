@@ -5,7 +5,8 @@ permalink: /2016/05/reading-outside-lies-magic/
 categories:
   - Reflections
 ---
-{% include figure image_path="images/2016/stilgoe-outside-lies-magic.jpg" caption="John Stilgoe, Outside Lies Magic" %}
+
+![book cover](/images/2016/stilgoe-outside-lies-magic.jpg)
 
 My new friend Jeff Allred at Hunter College learned of our shared interest in cycling, and recommended that I read John Stilgoe's _Outside Lies Magic: Regaining History and Awareness in Everyday Places_. His book reveals what "the explorer", traveling by foot or bicycle, can discover by looking more closely at ordinary objects that most of us pass by, especially when trapped inside the metal box of a motor car. This wide-ranging set of essays rambles across multiple topics, and many of these resonated with my own memories of what I've seen while riding a bike, though Stilgoe has taught me to take a second look. My favorite passage is his observation about fences:
 
