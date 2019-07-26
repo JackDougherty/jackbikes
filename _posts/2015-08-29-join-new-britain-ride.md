@@ -5,7 +5,7 @@ permalink: /2015/08/join-new-britain-ride/
 categories:
   - Around Hartford CT
 ---
-{% include figure image_path="images/2015/DiscoverCT2015.jpg" %}
+![DiscoverCT2015 logo](/images/2015/DiscoverCT2015.jpg)
 
 Come join us in New Britain on Sunday, September 27th, 2015, for the second installment of the Discover Connecticut Bike Tour, co-sponsored by BikeWalkCT and the New Britain Museum of American Art. This is a family-friendly event, not a race, with options for 10, 25, and 50 miles rides. The registration fee also includes brunch at the museum! I'll be riding as a marshal/mobile mechanic to help folks in case of flat tires.  [Learn more details and register for this event](http://www.bikewalkct.org/discover-ct-ride-series.html).
 

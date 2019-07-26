@@ -6,7 +6,7 @@ categories:
   - Around Hartford CT
   - Reflections
 ---
-{% include figure image_path="images/2015/DiscoverCT2015.jpg" %}
+![DiscoverCT2015 logo](/images/2015/DiscoverCT2015.jpg)
 
 [BikeWalkCT](http://www.bikewalkct.org/) sponsored a Discover West Hartford bike tour on Saturday June 6th, 2015, the first of a new series of group rides in Connecticut. Riders had the option of an 11, 25, or 50 mile loop, and the staggered start times were designed to bring everyone back around the same time to the Celebrate West Hartford event. Thanks to Rick Thibodeau and many volunteers from [Bike West Hartford](http://bikewesthartford.org), this was a well-organized event with over 200 participants (and perhaps more). Here's some lessons I learned while riding as a marshall/mobile mechanic with the 25-mile tour.
 
