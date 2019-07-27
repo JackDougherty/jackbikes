@@ -8,6 +8,7 @@ categories:
   - East Coast Greenway
   - BikeMapCode
   - Reflections
+  - Northwest Tour 2014
 ---
 ### Link types
 - Visible link uses angle brackets <http://google.com>
