@@ -24,10 +24,10 @@ Write the main text and insert a bracketed footnote symbol with a unique number 
 ![Jack Dougherty](/images/2019/dougherty-jack-150x150.jpg)
 
 ### [Liquid templating](https://jekyllrb.com/docs/liquid/) image in root no-slash images  
-{% include figure image_path="images/sample-300x200.jpg" alt="sample image" caption="here's the sample image" %}
+{% include figure image_path="images/2019/sample.jpg" caption="here's the sample image" %}
 
 ### Liquid image in root no-slash aligned with caption
-{% include figure image_path="images/sample-300x200.jpg" alt="sample image" caption="sample caption" %}{: .align-right}
+{% include figure image_path="images/2019/sample.jpg" caption="here's the sample image" %}{: .align-right}
 This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images.
 
 ### HTML iframe, with quote marks around with and height, whether percentages or pixels
