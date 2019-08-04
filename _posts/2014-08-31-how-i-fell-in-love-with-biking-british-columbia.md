@@ -15,8 +15,9 @@ As you'd expect, I saw far more bike riders here in British Columbia than back h
 {% include figure image_path="images/2014/WaterFountainBC.jpg"  caption="A 3-tier water fountain" %}{: .align-right}
 In addition to my love affair with BC bike lanes, allow me to babble on for a moment about water fountains. I'm a thirsty rider who's always on the lookout for a cold (and free) drink, so I tend to spot water bubblers, mentally note their location, and admire the better-quality models. But this was the first time that I've encountered a 3-tier fountain for refillable bottles, regular drinking, and a dog dish. Several of these models stood out along the Lochside regional bike trail in Victoria. Now I'm jealous of those Canadians (and you should be, too). Why don't we have water fountains like these in Connecticut's public parks or shopping areas like Blue Back Square? As State Senator Beth Bye reminds us, we waste a lot of money on shipping and purchasing bottled water. Sometimes you need to travel outside your hometown to reflect on how things could be different.
 
-{% include figure image_path="images/2014/BillboardsBC.jpg"  caption="Ugly billboards along Lochside bike trail and adjacent highway" %}{: .align-right}
 Not everything in British Columbia is beautiful. I intentionally took some photos of the ugliest scenes on my two-days of biking through the province. It seems that Canada has just as many billboards (or more) than the States, which makes some sections of the Lochside regional trail a bit unpleasant on the eyes.
+
+{% include figure image_path="images/2014/BillboardsBC.jpg"  caption="Ugly billboards along Lochside bike trail and adjacent highway" %}
 
 And this truck I spotted outside a fancy home in BC is just wrong on so many levels. I'll definitely be coming back to Connecticut soon.
 
