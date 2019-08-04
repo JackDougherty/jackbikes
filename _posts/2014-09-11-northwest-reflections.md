@@ -3,14 +3,12 @@ title: A 49-year-old adolescent bikes the Northwest
 date: 2014-09-11T19:10:39-04:00
 permalink: /2014/09/northwest-reflections/
 categories:
-  - Tours with Maps
   - Reflections
   - NorthWest Tour 2014
 ---
 After nearly twenty days and 800+ miles biking around the Northwest, my legs have gone on strike, my brain is ready to go back to work, and my heart is eager to come home to my family. It's been a ridiculously fun adventure, with spectacular views, delicious food, and friendly people. A big thank you goes to my sweetie Beth, who allowed (some might say encouraged) me to go on this trip; my teenage children, who took on cooking duties and household chores in my absence; and my wonderful sisters Kris and Ellen for providing me a base camp in Seattle.
 
-{% include figure image_path="images/2014/JackGayle.jpg" caption="Thanks to high school friend Gayle for root beer in Portland" %}
-
+{% include figure image_path="images/2014/JackGayle.jpg" caption="Thanks to high school friend Gayle for root beer in Portland" %}{: .align-right}
 As I concluded my trip by pedaling into Portland, Oregon, one of the highlights was meeting up with Gayle Lemery Lutes, a person who I knew from our tiny high school in rural upstate New York, but had not seen in thirty years. Gayle spotted me on FaceBook, discovered that I was biking through her neck of the woods, and invited me to sit down for a cold root beer. She is a year younger than me, and while we were not close friends in school, we know many of the same people, and had some good laughs about growing up in a small town and transitioning to life in a larger city. Since people from Morrisville, NY don't visit Portland every day, and I hadn't seen many familiar faces during my three weeks on the road, I was glad that she contacted me. Bicycling helps to bring people together.
 
 Bicycles also help us to get away from people, even those we love. When people asked me why I was making this trip, I usually joked about wanting to have fun and lose weight. But the deeper answer is that I really needed to get away from my responsibilities, at least for a short period of time. Responsibility has always been a watchword for me. As a teenager working in the family store, I learned early on that accepting greater responsibility was my route to becoming an adult. The same theme continued after college, when as a twenty-something I became a teacher and took responsibility for educating young people other than me. Later, when I proudly began a family with Beth, one of the most important lessons I share with my children on a daily basis is to demonstrate how we all share responsibilities to one another. And truth be told, the workaholic side of me got overwhelmed this past year by juggling a few too many responsibilities on the job (which, being the responsible party here, was entirely my fault). See, it's kind of ingrained in me.

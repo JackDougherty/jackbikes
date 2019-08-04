@@ -3,7 +3,6 @@ title: Thanks to my East Coast Greenway donors
 date: 2014-10-11T17:05:44-04:00
 permalink: /2014/10/thanks-donors/
 categories:
-  - Tours with Maps
   - East Coast Greenway
 ---
 Thanks to everyone who generously contributed to my fundraiser for the [East Coast Greenway](http://greenway.org), a wonderful organization that works with local partners to build a network of bike-and-pedestrian paths from Maine to Florida. I just returned from the ECG's [One Week A Year](http://www.greenway.org/way-tour-2014) tour, where forty of my new best friends and I pedaled about 275 miles from Philadelphia to Washington DC (where I had to jump off to go to a work event, but they kept going the full 325 miles to Fredericksburg VA). My donors contributed $680, and the organization as a whole raised over $43,000. You can still contribute to [I’ll rename a city or state for your East Coast Greenway donation](http://www.firstgiving.com/fundraiser/JackDougherty/2014-week-a-year-bike-tour).
