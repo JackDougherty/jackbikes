@@ -6,9 +6,11 @@ categories:
   - Tours with Maps
   - Around Hartford CT
 ---
+25 riders joined our "Biking to Bakeries" in Hartford tour today and gained 0 calories (according to dubious calculations).
+
 {% include figure image_path="images/2019/2019-09-group-circle.jpg" %}
 
-25 riders joined our "Biking to Bakeries" in Hartford tour today and gained 0 calories (according to dubious calculations). Joe Dickerson at BiCiCo.org and I designed this friendly 10-12 mph "slow roll" ride to help people learn how to bike around Hartford, and to build a stronger sense of community. Co-sponsored by the [Center for Hartford Engagement and Research (CHER) at Trinity College](http://cher.trincoll.edu) and [BiCiCo.org](http://bicico.org), Hartford’s community bike shop, a project of the Center for Latino Progress.
+Joe Dickerson at BiCiCo.org and I designed this friendly 10-12 mph "slow roll" ride to help people learn how to bike around Hartford, and to build a stronger sense of community. Co-sponsored by the [Center for Hartford Engagement and Research (CHER) at Trinity College](http://cher.trincoll.edu) and [BiCiCo.org](http://bicico.org), Hartford’s community bike shop, a project of the Center for Latino Progress.
 
 {% include figure image_path="images/2019/2019-09-joe-bicico.jpg" caption="Joe Dickerson at BiCiCo" %}
 
