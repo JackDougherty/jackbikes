@@ -7,7 +7,7 @@ categories:
   - Around Hartford CT
   - East Coast Greenway
 ---
-Last weekend I biked on a new section of the East Coast Greenway on the west side of Willimantic, Connecticut. Thanks to a new bridge that crosses the gap where the Hop River flows into the Willimantic River, cyclists can enjoy an additional half-mile of bike trail, away from traffic on CT Route 66. The new route is marked with ECG signage, but currently does not appear on the [ECG digital map](https://map.greenway.org/?loc=16,41.71982,-72.24912). So this post includes a map of the additional section (shown in red below), with a link to the [downloadable GPX file](https://github.com/JackDougherty/bikemapcode/blob/master/routes/ecg-willimantic-new.gpx) for ECG mapmakers, and offers some tips to riders.
+Last weekend I biked on a new section of the East Coast Greenway on the west side of Willimantic, Connecticut. Thanks to a new bridge that crosses the gap where the Hop River flows into the Willimantic River, cyclists can enjoy an additional half-mile of bike trail, away from traffic on CT Route 66. The new route is marked with ECG signage, but currently does not appear on the [ECG digital map](https://map.greenway.org/?loc=16,41.71982,-72.24912). So this post includes a map of the additional section (shown in red below), with a link to the [downloadable GPX file](jackdougherty.github.io/bikemapcode/routes/ecg-willimantic-new.gpx) for ECG mapmakers, and offers some tips to riders.
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/willimantic2019.html" width="100%" height="400px"></iframe>
 
