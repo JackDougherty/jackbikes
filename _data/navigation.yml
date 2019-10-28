@@ -2,13 +2,9 @@
 main:
 - title: "Home"
   url: /
+- title: "Posts"
+  url: /categories/
 - title: "Tours with Maps"
   url: /categories/#tours-with-maps
 - title: "Around Hartford CT"
   url: /categories/#around-hartford-ct
-- title: "Reflections"
-  url: /categories/#reflections
-- title: "Posts by Category"
-  url: /categories/
-- title: "Site Info"
-  url: /site-info/
