@@ -7,7 +7,7 @@ header:
   image: /images/home/jackbikesheader1280w.jpg
   image_description: "JackBikes photo montage"
 ---
-When touring by bike, I experience far more of the world than by foot or inside a car. Read my [**Tours with Maps posts**](https://jackbikes.org/categories/#tours-with-maps) and check out this [interactive map of tours](https://jackdougherty.github.io/bikemapcode/index.html):
+Touring by bike helps me to see and experience more of the world than driving a car or walking by foot. Read my [**Tours with Maps posts**](https://jackbikes.org/categories/#tours-with-maps) and explore this [interactive map of tours](https://jackdougherty.github.io/bikemapcode/index.html):
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/index.html" width="95%" height="400px"></iframe>
 
