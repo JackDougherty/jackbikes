@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /
-date: {% last_modified_at %}
+date: 2019-12-07
 layout: posts
 header:
   image: /images/home/jackbikesheader1280w.jpg
