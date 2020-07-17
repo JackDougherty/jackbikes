@@ -17,11 +17,15 @@ But this year was different. I've been biking more regularly in the late afterno
 
 That destination is 93 miles by bike from my house, which I've done on a previous birthday ride, when I was younger. In addition, since my sweetie-pie Beth was not available to pick me up after a one-way bike ride, as she's kindly done in the past, this year's birthday challenge was a two-day round-trip of 186 miles. Assuming I survived the first day.
 
+{% include figure image_path="images/2020/andover-covered-bridge.jpg" caption="Covered bridge on the Hop River Trail in Andover CT" %}
+
 The weather cooperated wonderfully. The forecast for both July 15th and 16th was a high of 80 degrees F, considerably lower than the last or next week. So I booked a $30 AirBnb room, conveniently located about a block from the bakery, geared up my touring bike with lots of water and an overnight bag, and headed out at 6:30am to beat the heat (and because the bakery was scheduled to close at 3:30pm).
+
+{% include figure image_path="images/2020/seven-stars-bakery-bike.jpg" caption="Arrived just before closing time" %}
 
 Hallelujah! I made it to the bakery with ten minutes to spare, and bought their last three Chocolate Almond Croissants. Can you imagine how sad this tale would be if they had run out, or worse, if I arrive a few minutes after closing?. The staff boxed up the goodies and also gave me a plastic bag to seal it up. Spent the night in Providence, then starting pedaling back to Hartford this morning with the (now day-old) deliciousness safely packed away in my bike bag. This evening we opened the box and confirmed that they survived the bumpy summer ride back to Connecticut.
 
-{% include figure image_path="images/2020/seven-stars-bakery-doorway.jpg" caption="Arrived just before closing time" %}
+{% include figure image_path="images/2020/seven-stars-bakery-doorway.jpg" caption="Packed up the pastries for a bumpy ride back home" %}
 
 My 55-year-old body also survived the ride. While the legs are a tiny bit sore, it's nothing compared to other long rides I've done. Took the dogs for a long walk right after I got home. Also, no complaints from my bum after two long days in the saddle. Operation Youthful Delusion was a success this time.
 
