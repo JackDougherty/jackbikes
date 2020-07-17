@@ -39,4 +39,4 @@ I also found some inspiration for future years, in case my body rebels against c
 
 {% include figure image_path="images/2020/orangemen-coventry.jpg" caption="The Orangemen on the Trestle Trail: Roger Vanasse and Bernie George" %}
 
-<iframe src="https://jackdougherty.github.io/bikemapcode/connecticut.html#10/41.6975/-72.0813" width="100%" height="600px"></iframe>
+<iframe src="https://jackdougherty.github.io/bikemapcode/connecticut.html#9/41.6975/-72.0813" width="100%" height="600px"></iframe>
