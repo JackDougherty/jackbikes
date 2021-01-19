@@ -2,11 +2,11 @@
 main:
 - title: "Home"
   url: /
-- title: "All Posts"
+- title: "Posts"
   url: /categories/
-- title: "Tours with Maps"
+- title: "Tours+Maps"
   url: /categories/#tours-with-maps
-- title: "Around Hartford CT"
+- title: "Hartford Area"
   url: /categories/#around-hartford-ct
-- title: "Reflections"
-  url: /categories/#reflections
+- title: "Minivan Camper"
+  url: /minivan-camper/
