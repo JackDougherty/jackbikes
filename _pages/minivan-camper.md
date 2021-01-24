@@ -3,11 +3,9 @@ title: "Minivan Camper"
 permalink: /minivan-camper/
 date: 2021-01-21
 ---
-We built a minivan camper that slides into 2016 Toyota Sienna to give us more flexibility for long weekends and bike touring during the pandemic. It includes a small kitchen and refrigerator, a portable power station with a solar panel, and a couch that converts into a full-size bed. Watch our first-stage build video from January 2021 on YouTube:
+We built a minivan camper that slides into 2016 Toyota Sienna to give us more flexibility for long weekends and bike touring during the pandemic. It includes a small kitchen and refrigerator, a portable power station with a solar panel, and a couch that converts into a full-size bed. Watch our [first-stage build YouTube video from January 2021](https://youtu.be/_hmhEr1s7F0):
 
-SAMPLE embed below...
-
-{% include video id="3sK7-g0otGM" provider="youtube" %}
+{% include video id="_hmhEr1s7F0" provider="youtube" %}
 
 ## Design
 [Download our Sketchup design file](https://jackbikes.org/resources/minivan-camper-toyota-sienna-2021-01.skp) and open it with a [free personal Sketchup web account](https://www.sketchup.com/try-sketchup#for-personal). We are freely sharing our design as-is, with no warranty, so use at your own risk. We encourage you to improve on our design and freely share your ideas with others.
