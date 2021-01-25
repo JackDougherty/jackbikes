@@ -35,5 +35,6 @@ Our next project is to add ventilation, and I'm just beginning to research diffe
 - [passive window vents](https://youtu.be/ixEpp4hoofU)
 - [window screens with DC-powered fans](https://expeditionportal.com/forum/threads/window-insert-for-12vdc-fan-ventilation.161467/page-2)
 - [van room vent with DC-powered fan](https://www.youtube.com/watch?v=mXvb9SAEv5M)
+- and Bruce Parks gets a special mention for his [custom screens](https://youtu.be/XaPqxGuifpA) and [electric vent intake system](https://youtu.be/oO2-2EKtJLc?t=203)
 
 Suggestions welcome!
