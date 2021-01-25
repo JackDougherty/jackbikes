@@ -78,6 +78,10 @@ So we considered different vehicle options, but realized each had drawbacks for 
 
 So that's how our decision-making process came back to a minivan camper. We bought a 2016 Toyota Sienna to replace our 1998 Honda Odyssey. On YouTube we saw several creative conversions of Siennas, which made excellent use of its relatively flat floor and spacious interior. Our 2016 Sienna LE is rated at 25 miles per gallon on the highway (and in practice we experience about 27 mpg). While that's only half of the 50 highway mpg we get from our 2010 Prius, it's not bad when compared to other minivans of its era. Although Toyota introduced its new hybrid Sienna minivan in 2021 with 36 highway mpg, our understanding is that the middle-row seats are not removable, and it's an expensive brand-new vehicle, so that's why we converted the more affordable 2016 Sienna.
 
+To be clear, we are *not* a tall family (I'm only 5' 6"), so we fit better inside smaller spaces. Initially, that was another reason why we leaned toward the minivan camper. But during our design phase, we intentionally tested it on taller people, such as a certain boyfriend who is 6'4", and found that it still worked. So while a larger van makes sense if you're really tall and spend lots of time inside of it, preferably standing up, consider whether a minivan camper still works for long-weekend trips where you plan to spend most of your time outdoors in spring-summer-fall.
+
+
+
 ## Ventilation
 
 Our next project is to add ventilation, and we're just beginning to research different approaches.
