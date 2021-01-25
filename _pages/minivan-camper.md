@@ -27,3 +27,13 @@ See also [Professor Hobo](https://www.youtube.com/c/HOBOTECH/videos), YouTube ch
 ## Budget
 
 more to come....
+
+## Ventilation
+
+Our next project is to add ventilation, and I'm just beginning to research different approaches.
+
+- [passive window vents](https://youtu.be/ixEpp4hoofU)
+- [window screens with DC-powered fans](https://expeditionportal.com/forum/threads/window-insert-for-12vdc-fan-ventilation.161467/page-2)
+- [van room vent with DC-powered fan](https://www.youtube.com/watch?v=mXvb9SAEv5M)
+
+Suggestions welcome!
