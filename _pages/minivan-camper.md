@@ -16,7 +16,7 @@ Thanks to all who freely share their creative designs for minivan campers. Our t
 
 - [Eric enjoys Earth](https://www.youtube.com/channel/UC419EVHTZkNsRuLpoN_wnpA/videos) YouTube video channel on design ideas for minivan campers, especially Toyota Sienna
 
-- [Bruce Parks](https://www.youtube.com/c/BruceParks/videos) YouTube video channel on building his Toyota Sienna MiniCamperVan
+- [Bruce Parks](https://www.youtube.com/c/BruceParks/videos) YouTube video channel on building his Toyota Sienna MiniCamperVan. See also his [Toyota Sienna 3rd Row Seat Removal video](https://youtu.be/IanA0ofo1m8)
 
 - [A Very Small Camper Van](https://www.youtube.com/c/averysmallcampervan/videos) YouTube Channel with a very creative and affordable approach to minivan camper design
 
