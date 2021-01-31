@@ -20,6 +20,8 @@ Thanks to all who freely share their creative designs for minivan campers. Our t
 
 - [A Very Small Camper Van](https://www.youtube.com/c/averysmallcampervan/videos) YouTube Channel with a very creative and affordable approach to minivan camper design
 
+- [Shen Ye](https://www.youtube.com/channel/UCVXjfzc9V0UPO7lZiIbAS-g) Youtube video channel, Practical Toyota Sienna Mini-Camper Van  
+
 - [Ladi and Margaret](https://www.youtube.com/c/ladiandmargaret/videos) YouTube Channel on design thinking, but primarily for larger vans
 
 See also [Professor Hobo](https://www.youtube.com/c/HOBOTECH/videos), YouTube channel on off-grid mobile power stations, solar panels, and refrigerators for vehicles
