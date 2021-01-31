@@ -89,6 +89,7 @@ To be clear, we are *not* a tall family (I'm only 5' 6"), so we fit better insid
 Our next project is to add ventilation, and we're just beginning to research different approaches.
 
 - [passive window vents](https://youtu.be/ixEpp4hoofU)
+- [fabric screen with magnets on outside door](https://youtu.be/ALl-qQwd9yY?t=403)
 - [window screens with DC-powered fans](https://expeditionportal.com/forum/threads/window-insert-for-12vdc-fan-ventilation.161467/page-2)
 - [van room vent with DC-powered fan](https://www.youtube.com/watch?v=mXvb9SAEv5M)
 - and Bruce Parks gets a special mention for his [custom screens](https://youtu.be/XaPqxGuifpA) and [electric vent intake system](https://youtu.be/oO2-2EKtJLc?t=203)
