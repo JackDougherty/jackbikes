@@ -1,7 +1,7 @@
 ---
 title: "Minivan Camper"
 permalink: /minivan-camper/
-date: 2021-01-25
+date: 2021-03-15
 ---
 We built a minivan camper that slides into 2016 Toyota Sienna to give us more flexibility for long-weekend trips and long-distance bike touring. Our custom design features a small kitchen and refrigerator, a portable power station with a solar panel, and a couch that converts into a full-size bed. Watch our [first-stage build YouTube video from January 2021](https://youtu.be/_hmhEr1s7F0):
 
@@ -31,32 +31,56 @@ Current list of items purchased for our build. We include links to provide more 
 
 | Category | Cost | Item and Link |
 |-|-|-|
-| Bed-Couch-Cabinets | $235 | [2 sheets of 3/4" cabinet-grade plywood, we chose pre-finished maple](https://parkervillewoodproducts.com/plywood-pricing/) |
-|  | $15 | [quarter-sheet of 1/4" plywood for cabinet backing](https://parkervillewoodproducts.com/plywood-pricing/) |
-|  | $37 | [5 of 2x4x8' lumber, get best quality you can find](https://sanhaw.com) |
+| Bed-Couch-Cabinets | $235 | [3/4" cabinet-grade plywood, we chose pre-finished maple, two 4x8 sheets](https://parkervillewoodproducts.com/plywood-pricing/) |
+|  | $15 | [1/4" plywood for cabinet backing, quarter sheet](https://parkervillewoodproducts.com/plywood-pricing/) |
+|  | $37 | [2x4x8' lumber x 5, get best quality you can find, ](https://sanhaw.com) |
 |  | $35 | [Stocker continuous hinge stainless steel 304, 3" open width x 4' long](https://www.amazon.com/gp/product/B007XZGMZ2) |
-|  | $52 | [4 of AR aluminum rail table supports 30" x 1/2 tall x 3/4 wide](https://www.amazon.com/gp/product/B00G44IZEO) |
-|  | $20 | [4-pack of 1" x 3' Secure It Quick cinch tie-down cargo straps](https://www.amazon.com/SECURE-QUICK-Straps-Buckles-Utility/dp/B08FWLLMM5) |
-|  | $14 | [50-pack of Structural Screws GRK RSS10212HP 10 by 2-1/2-Inch](https://www.amazon.com/gp/product/B000I1E9F8) |
-|  | $25 | [set of 4 of Sevasa/Clairla folding table iron hairpin legs 10.3" tall](https://www.amazon.com/gp/product/B07MKY9XRK) |
-|  | $24 | [4 of Ace steel closed bar holder for 2x4 to turn bed into couch](https://www.acehardware.com/departments/hardware/door-hardware/door-components-and-hardware/5286620) |
+|  | $52 | [AR aluminum rail table supports 30" x 1/2 tall x 3/4 wide x 4](https://www.amazon.com/gp/product/B00G44IZEO) |
+|  | $25 | [folding table iron hairpin legs 10.3" tall, Sevasa/Clairla set of 4](https://www.amazon.com/gp/product/B07MKY9XRK) |
+|  | $20 | [1" x 3' Secure It Quick cinch tie-down cargo straps, 4 pack](https://www.amazon.com/SECURE-QUICK-Straps-Buckles-Utility/dp/B08FWLLMM5) |
+|  | $14 | [Structural Screws GRK RSS10212HP 10 by 2-1/2-Inch, 50 pack](https://www.amazon.com/gp/product/B000I1E9F8) |
+|  | $24 | [Ace steel closed bar holder for 2x4, 4 pieces, to turn bed into couch](https://www.acehardware.com/departments/hardware/door-hardware/door-components-and-hardware/5286620) |
+|  | $11 | [Velcro heavy-duty tape 1" x 10'](https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_asin_title_o08_s00) |
 |  | $5 | [1"x2"x6' pine board for single legs for cabinet tables](https://www.homedepot.com/p/1-in-x-2-in-x-6-ft-Select-Pine-Board-921494/202535799) |
-|  | $8 | [4 flat corner braces 5" to attached cabinets to seat bolts](https://www.homedepot.com/p/Everbilt-5-in-Zinc-Plated-Flat-Corner-Brace-15074/202033941) |
-|  | $5 | [3 dozen 6 x 5/8" inch wood screws to connect piano hinge to plywood](https://www.amazon.com/Snug-Fastener-Coated-Phillips-SNG2/dp/B07L4B4XR4/) |
-|  | $5 | [3 dozen 6 x 1 1/4" wood screws to connect plywood to frame](https://www.amazon.com/Hillman-Group-40024-Phillips-100-Pack/dp/B000BQKBNO/) |
-|  | $5 | [3 dozen 8 x 3/4" pan head screws to connect table rail to plywood](https://www.amazon.com/Stainless-Phillips-Screws-Bolt-Dropper/dp/B076CRM885) |
+|  | $8 | [5" flat corner braces x 4 to attached cabinets to seat bolts](https://www.homedepot.com/p/Everbilt-5-in-Zinc-Plated-Flat-Corner-Brace-15074/202033941) |
+|  | $5 | [6 x 5/8" inch wood screws, 3 dozen, to connect piano hinge to plywood](https://www.amazon.com/Snug-Fastener-Coated-Phillips-SNG2/dp/B07L4B4XR4/) |
+|  | $5 | [6 x 1 1/4" wood screws, 3 dozen, to connect plywood to frame](https://www.amazon.com/Hillman-Group-40024-Phillips-100-Pack/dp/B000BQKBNO/) |
+|  | $5 | [8 x 3/4" pan head screws, 3 dozen, to connect table rail to plywood](https://www.amazon.com/Stainless-Phillips-Screws-Bolt-Dropper/dp/B076CRM885) |
+|  | $5 | [shelf support clips x 8](https://www.acehardware.com/departments/hardware/angles-braces-and-brackets/brackets/59677) |
+| Bedding | $133 | [Milliard Full-Size Tri Folding Mattress with Washable Cover, 73 x 52 x 4 inches](https://www.amazon.com/Milliard-Folding-Mattress-Ultra-Washable/dp/B00W67PAPK) |
+|  | $30 | [Cylindrical bolster pillow to replace armrests 5"x13" gray x 2](https://www.etsy.com/listing/893942122/bamboo-gray-round-cervical-roll-cylinder) |
 | Electrical | $499 | [Jackery Portable Power Station Explorer 500](https://www.jackery.com/products/explorer-500w-portable-power-station) |
 |  | $255 | [Jackery SolarSaga 100W Portable Solar Panel foldable](https://www.amazon.com/gp/product/B07Q71LX84/) |
 |  | $36 | [iGreely 8mm 30' extension cord from solar panel to Jackery](https://www.amazon.com/dp/B08J857M3C/) |
 |  | $245 | [BougeRV 30 quart refrigerator DC power, opens on top, driver's side](https://www.amazon.com/BougeRV-Portable-Refrigerator-Compressor-Tailgating/dp/B08D9M14JG) |
+|  | $25 | [Revel USB camping LED lights](https://www.rei.com/product/159147/revel-gear-trail-hound-30-ft-camping-light) |
 | Kitchen | $65 | [Portal aluminum folding camping table](https://www.amazon.com/gp/product/B07R3TFG3R) |
 |  | $53 | [Eurkea SPRK+ butane camp stove](https://www.rei.com/product/179537/eureka-sprk-butane-camp-stove) |
 |  | $2 | [Kovea butane fuel 8 ounce cannister](https://www.rei.com/product/172458/kovea-butane-fuel-canister-8-oz) |
 |  | $13 | [LYYZ collapsible basin and cutting board](https://www.amazon.com/dp/B08FRQ9CTS) |
+|  | $40 | [clear plastic storage bins 8x8x6" for cabinet shelves, 4-pack](https://www.amazon.com/mDesign-Plastic-Stackable-Refrigerator-Container/dp/B07KYY1MJX) |
+|  | $25 | [GSI tea kettle](https://www.rei.com/product/768513/gsi-outdoors-halulite-1-qt-tea-kettle-1-liter) |
 |  | $10 | [WaterStorageCube collapsible dispenser w spigot 1.3 gallons](https://www.amazon.com/gp/product/B07FW557D4/) |
 |  | $8 | [LifeUnion collapsible water container w handle 5 L, fits nicely in car refrig](https://www.amazon.com/gp/product/B00WHQSVRO/) |
-| Bedding | $133 | [Milliard Full-Size Tri Folding Mattress with Washable Cover, 73 x 52 x 4 inches](https://www.amazon.com/Milliard-Folding-Mattress-Ultra-Washable/dp/B00W67PAPK) |
-| Current Total | $1,804 |  |
+|  | $25 | [Uco candle lantern](https://www.rei.com/product/838880/uco-original-candle-lantern-kit) |
+|  | $5 | [Uco candles](https://www.rei.com/product/410128/uco-candle-lantern-candles) |
+| Toilet & Trash Can | $40 | [TripTips collapsible covered stool, trash bin, and emergency toilet](https://www.amazon.com/gp/product/B07DZS5XRY) |
+|  | $16 | [Primode 100% Compostable Bags 6 Gallon Waste Bags, 50 Count, Extra Thick 0.87 Mil](https://www.amazon.com/Primode-Compostable-ASTMD6400-Biodegradable-Certified/dp/B071G646CK) |
+|  | $20 | [Kunida Designs biodegradable portable toilet bag 8 gallon, box of 30, 1.18 Mil thick, black](https://www.amazon.com/dp/B0876W4K43) |
+| Shade & Ventilation | $225 | [HeatShieldStore gold/black set for all windows, Toyota Sienna 2016](https://www.heatshieldstore.com) |
+|  | $40 | [Auto Ventshade window deflector set for Toyota Sienna 2016](https://www.amazon.com/Auto-Ventshade-94365-Ventvisor-Deflector/dp/B003ZJ2IQM/ref=sr_1_1?crid=2C3J0RF2TYI7Y&dchild=1&keywords=window+deflectors&pd_rd_r=05216102-f21c-4b0b-b5d1-c46c2381f109&pd_rd_w=WU8Rf&pd_rd_wg=mAwVi&pf_rd_p=bec88bc8-d41e-4895-a8dc-a35e165b8995&pf_rd_r=5CFDG3QFH45469EBQJHY&pid=NoqZhm1&qid=1613274203&sprefix=window+defle%2Caps%2C179&sr=1-1&vehicle=2016-76-1027-269--40-6--7937--1-1--213-&vehicleName=2016+Toyota+Sienna) |
+|  | $73 | [8'x8' Everbilt popup canopy tent](https://www.homedepot.com/p/Everbilt-8-ft-x-8-ft-Grey-Straight-Leg-Instant-Canopy-Pop-Up-Tent-CL64-B/313611482?MERCH=REC-_-pip_alternatives-_-309982613-_-313611482-_-N&) |
+|  | $26 | [Orange Screw ground anchors large x 2](https://www.amazon.com/Orange-Screw-Ultimate-Ground-Anchor/dp/B01B26DHAU/) |
+|  | $13 | [guy lines with tent stakes](https://www.amazon.com/gp/product/B07FNG6X8T/ref=ox_sc_act_title_1?smid=A1N847EN94T6V8&psc=1) |
+|  | $10 | [nylon web strap 1" x 10 yard to make window vent screens](https://www.amazon.com/Strapworks-Heavyweight-Polypropylene-Webbing-Strapping/dp/B01KTVG0KI) |
+|  | $12 | [Lock in gutter guard 3' x 4 to make window vent screens](https://www.homedepot.com/p/Metal-Black-Lock-in-Gutter-Guard-6360X2/205207064) |
+|  | $8 | [Scotch extreme mounting double-sided tape exterior to make window vent screens](https://www.homedepot.com/p/3M-Scotch-1-in-x-1-66-yds-Permanent-Double-Sided-Extreme-Mounting-Tape-414DC-SF/203405976?) |
+|  | $8 | [36x84" window screen (charcoal) to make window vent screens](https://www.homedepot.com/p/Saint-Gobain-ADFORS-36-in-x-84-in-Charcoal-Aluminum-Window-Screen-FCS9370-M/100260694) |
+|  | $5 | [Loctite clear silicon adhesive to seal window vent screens](https://www.homedepot.com/p/Loctite-Clear-Silicone-2-7-fl-oz-Waterproof-Sealant-908570/303769575?) |
+|  | $26 | [6" variable-speed fan with USB rechargeable battery and wrap-around legs](https://www.amazon.com/Flexible-Portable-Handheld-360°Rotatable-treadmill/dp/B0885ZP6FG) |
+| Tow hitch & bike rack | $219 | [UHaul 2" tow hitch and installation](https://www.uhaul.com/Trailer-Hitches/) |
+|  | $440 | [CycleSimplex tow hitch bike back: One Tandem and One Reg Non-Tilt](https://www.cyclesimplex.com/collections/tandem-bike-racks/products/one-tandem-one-regular-bike-hitch-rack) |
+| Current Total | $3,151 |  |
 
 ## Why?
 Why build a minivan camper? Why not other options? Your situation may be very different, but here's how we defined our needs and decided on our best options.
