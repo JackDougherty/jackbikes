@@ -36,7 +36,7 @@ Current list of items purchased for our build. We include links to provide more 
 |  | $37 | [2x4x8' lumber x 5, get best quality you can find, ](https://sanhaw.com) |
 |  | $35 | [Stocker continuous hinge stainless steel 304, 3" open width x 4' long](https://www.amazon.com/gp/product/B007XZGMZ2) |
 |  | $52 | [AR aluminum rail table supports 30" x 1/2 tall x 3/4 wide x 4](https://www.amazon.com/gp/product/B00G44IZEO) |
-|  | $25 | [folding table iron hairpin legs 10.3" tall, Sevasa/Clairla set of 4](https://www.amazon.com/gp/product/B07MKY9XRK) |
+|  | $25 | [folding hairpin legs 10.3" tall, Sevasa/Clairla, set of 4 for bed extenders](https://www.amazon.com/gp/product/B07MKY9XRK) |
 |  | $20 | [1" x 3' Secure It Quick cinch tie-down cargo straps, 4 pack](https://www.amazon.com/SECURE-QUICK-Straps-Buckles-Utility/dp/B08FWLLMM5) |
 |  | $14 | [Structural Screws GRK RSS10212HP 10 by 2-1/2-Inch, 50 pack](https://www.amazon.com/gp/product/B000I1E9F8) |
 |  | $24 | [Ace steel closed bar holder for 2x4, 4 pieces, to turn bed into couch](https://www.acehardware.com/departments/hardware/door-hardware/door-components-and-hardware/5286620) |
