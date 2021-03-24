@@ -1,7 +1,7 @@
 ---
 title: "Minivan Camper"
 permalink: /minivan-camper/
-date: 2021-03-15
+date: 2021-03-24
 ---
 We built a minivan camper that slides into 2016 Toyota Sienna to give us more flexibility for long-weekend trips and long-distance bike touring. Our custom design features a small kitchen and refrigerator, a portable power station with a solar panel, and a couch that converts into a full-size bed. Watch our [first-stage build YouTube video from January 2021](https://youtu.be/_hmhEr1s7F0):
 
@@ -16,15 +16,15 @@ Thanks to all who freely share their creative designs for minivan campers. Our t
 
 - [Eric enjoys Earth](https://www.youtube.com/channel/UC419EVHTZkNsRuLpoN_wnpA/videos) YouTube video channel on design ideas for minivan campers, especially Toyota Sienna
 
-- [Bruce Parks](https://www.youtube.com/c/BruceParks/videos) YouTube video channel on building his Toyota Sienna MiniCamperVan. See also his [Toyota Sienna 3rd Row Seat Removal video](https://youtu.be/IanA0ofo1m8)
+- [Bruce Parks](https://www.youtube.com/c/BruceParks/videos) YouTube video channel on building his Toyota Sienna MiniCamperVan. In particular, see his [Toyota Sienna 3rd Row Seat Removal video](https://youtu.be/IanA0ofo1m8) and his [How to Remove the Center Console in a Toyota Sienna video](https://youtu.be/hVQG5EYGw9k)
+
+- [Shen Ye](https://www.youtube.com/channel/UCVXjfzc9V0UPO7lZiIbAS-g) Youtube video channel, Practical Toyota Sienna Mini-Camper Van. In particular, see his [Part 6: Ventilation and Window Screens video](https://youtu.be/J1Rj_3LjVMw)
 
 - [A Very Small Camper Van](https://www.youtube.com/c/averysmallcampervan/videos) YouTube Channel with a very creative and affordable approach to minivan camper design
 
-- [Shen Ye](https://www.youtube.com/channel/UCVXjfzc9V0UPO7lZiIbAS-g) Youtube video channel, Practical Toyota Sienna Mini-Camper Van  
-
 - [Ladi and Margaret](https://www.youtube.com/c/ladiandmargaret/videos) YouTube Channel on design thinking, but primarily for larger vans
 
-See also [Professor Hobo](https://www.youtube.com/c/HOBOTECH/videos), YouTube channel on off-grid mobile power stations, solar panels, and refrigerators for vehicles
+See also [Professor Hobo](https://www.youtube.com/c/HOBOTECH/videos), YouTube channel on off-grid mobile power stations, solar panels, and refrigerators for vehicles. In particular, see his reviews for the [BougeRV 30-quart 12-volt refrigerator](https://youtu.be/V_prvLXEBeA) and Jackery power station and solar panel products.
 
 ## Budget
 Current list of items purchased for our build. We include links to provide more information. But we encourage you to **buy locally** whenever feasible, and we do **not** receive any promotional fees from Amazon or other companies.
