@@ -1,7 +1,7 @@
 ---
 title: "Minivan Camper"
 permalink: /minivan-camper/
-date: 2021-03-24
+date: 2021-04-01
 ---
 We built a minivan camper that slides into 2016 Toyota Sienna to give us more flexibility for long-weekend trips and long-distance bike touring. Our custom design features a small kitchen and refrigerator, a portable power station with a solar panel, and a couch that converts into a full-size bed. Watch our [first-stage build YouTube video from January 2021](https://youtu.be/_hmhEr1s7F0):
 
@@ -16,11 +16,11 @@ Thanks to all who freely share their creative designs for minivan campers. Our t
 
 - [Eric enjoys Earth](https://www.youtube.com/channel/UC419EVHTZkNsRuLpoN_wnpA/videos) YouTube video channel on design ideas for minivan campers, especially Toyota Sienna
 
-- [Bruce Parks](https://www.youtube.com/c/BruceParks/videos) YouTube video channel on building his Toyota Sienna MiniCamperVan. In particular, see his [Toyota Sienna 3rd Row Seat Removal video](https://youtu.be/IanA0ofo1m8) and his [How to Remove the Center Console in a Toyota Sienna video](https://youtu.be/hVQG5EYGw9k)
+- [Bruce Parks](https://www.youtube.com/c/BruceParks/videos) YouTube video channel on building his Toyota Sienna MiniCamperVan. See especially [Toyota Sienna 3rd Row Seat Removal video](https://youtu.be/IanA0ofo1m8) and his [How to Remove the Center Console in a Toyota Sienna video](https://youtu.be/hVQG5EYGw9k)
 
-- [Shen Ye](https://www.youtube.com/channel/UCVXjfzc9V0UPO7lZiIbAS-g) Youtube video channel, Practical Toyota Sienna Mini-Camper Van. In particular, see his [Part 6: Ventilation and Window Screens video](https://youtu.be/J1Rj_3LjVMw)
+- [Shen Ye](https://www.youtube.com/channel/UCVXjfzc9V0UPO7lZiIbAS-g) Youtube video channel, Practical Toyota Sienna Mini-Camper Van. See especially [Part 6: Ventilation and Window Screens video](https://youtu.be/J1Rj_3LjVMw)
 
-- [A Very Small Camper Van](https://www.youtube.com/c/averysmallcampervan/videos) YouTube Channel with a very creative and affordable approach to minivan camper design
+- [A Very Small Camper Van](https://www.youtube.com/c/averysmallcampervan/videos) YouTube Channel with a very creative and affordable approach to designing for a 2012 Grand Caravan. See especially [Finally, a tour of my very small, self built minivan camper van](https://youtu.be/X57kqKfljgg)
 
 - [Ladi and Margaret](https://www.youtube.com/c/ladiandmargaret/videos) YouTube Channel on design thinking, but primarily for larger vans
 
