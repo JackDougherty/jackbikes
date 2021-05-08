@@ -1,7 +1,7 @@
 ---
 title: "Minivan Camper"
 permalink: /minivan-camper/
-date: 2021-04-01
+date: 2021-05-08
 ---
 We built a minivan camper that slides into 2016 Toyota Sienna to give us more flexibility for long-weekend trips and long-distance bike touring. Our custom design features a small kitchen and refrigerator, a portable power station with a solar panel, and a couch that converts into a full-size bed. Watch our [first-stage build YouTube video from January 2021](https://youtu.be/_hmhEr1s7F0):
 
@@ -64,9 +64,10 @@ Current list of items purchased for our build. We include links to provide more 
 |  | $8 | [LifeUnion collapsible water container w handle 5 L, fits nicely in car refrig](https://www.amazon.com/gp/product/B00WHQSVRO/) |
 |  | $25 | [Uco candle lantern](https://www.rei.com/product/838880/uco-original-candle-lantern-kit) |
 |  | $5 | [Uco candles](https://www.rei.com/product/410128/uco-candle-lantern-candles) |
-| Toilet & Trash Can | $40 | [TripTips collapsible covered stool, trash bin, and emergency toilet](https://www.amazon.com/gp/product/B07DZS5XRY) |
+| Toilet-Trash-Shower | $40 | [TripTips collapsible covered stool, trash bin, and emergency toilet](https://www.amazon.com/gp/product/B07DZS5XRY) |
 |  | $16 | [Primode 100% Compostable Bags 6 Gallon Waste Bags, 50 Count, Extra Thick 0.87 Mil](https://www.amazon.com/Primode-Compostable-ASTMD6400-Biodegradable-Certified/dp/B071G646CK) |
 |  | $20 | [Kunida Designs biodegradable portable toilet bag 8 gallon, box of 30, 1.18 Mil thick, black](https://www.amazon.com/dp/B0876W4K43) |
+|  | $79 | [Helio pressure shower heated by sun](https://www.rei.com/product/163887/nemo-helio-pressure-shower-11-liters) |
 | Shade & Ventilation | $225 | [HeatShieldStore gold/black set for all windows, Toyota Sienna 2016](https://www.heatshieldstore.com) |
 |  | $40 | [Auto Ventshade window deflector set for Toyota Sienna 2016](https://www.amazon.com/Auto-Ventshade-94365-Ventvisor-Deflector/dp/B003ZJ2IQM/ref=sr_1_1?crid=2C3J0RF2TYI7Y&dchild=1&keywords=window+deflectors&pd_rd_r=05216102-f21c-4b0b-b5d1-c46c2381f109&pd_rd_w=WU8Rf&pd_rd_wg=mAwVi&pf_rd_p=bec88bc8-d41e-4895-a8dc-a35e165b8995&pf_rd_r=5CFDG3QFH45469EBQJHY&pid=NoqZhm1&qid=1613274203&sprefix=window+defle%2Caps%2C179&sr=1-1&vehicle=2016-76-1027-269--40-6--7937--1-1--213-&vehicleName=2016+Toyota+Sienna) |
 |  | $73 | [8'x8' Everbilt popup canopy tent](https://www.homedepot.com/p/Everbilt-8-ft-x-8-ft-Grey-Straight-Leg-Instant-Canopy-Pop-Up-Tent-CL64-B/313611482?MERCH=REC-_-pip_alternatives-_-309982613-_-313611482-_-N&) |
@@ -79,8 +80,8 @@ Current list of items purchased for our build. We include links to provide more 
 |  | $5 | [Loctite clear silicon adhesive to seal window vent screens](https://www.homedepot.com/p/Loctite-Clear-Silicone-2-7-fl-oz-Waterproof-Sealant-908570/303769575?) |
 |  | $26 | [6" variable-speed fan with USB rechargeable battery and wrap-around legs](https://www.amazon.com/Flexible-Portable-Handheld-360°Rotatable-treadmill/dp/B0885ZP6FG) |
 | Tow hitch & bike rack | $219 | [UHaul 2" tow hitch and installation](https://www.uhaul.com/Trailer-Hitches/) |
-|  | $440 | [CycleSimplex tow hitch bike back: One Tandem and One Reg Non-Tilt](https://www.cyclesimplex.com/collections/tandem-bike-racks/products/one-tandem-one-regular-bike-hitch-rack) |
-| Current Total | $3,151 |  |
+|  | $440 | [CycleSimplex tow hitch bike rack: One Tandem and One Reg Non-Tilt](https://www.cyclesimplex.com/collections/tandem-bike-racks/products/one-tandem-one-regular-bike-hitch-rack) |
+| Current Total | $3,230 |  |
 
 ## Why?
 Why build a minivan camper? Why not other options? Your situation may be very different, but here's how we defined our needs and decided on our best options.
@@ -106,16 +107,21 @@ So that's how our decision-making process came back to a minivan camper. We boug
 
 To be clear, we are *not* a tall family (I'm only 5' 6"), so we fit better inside smaller spaces. Initially, that was another reason why we leaned toward the minivan camper. But during our design phase, we intentionally tested it on taller people, such as a certain boyfriend who is 6'4", and found that it still worked. So while a larger van makes sense if you're really tall and spend lots of time inside of it, preferably standing up, consider whether a minivan camper still works for long-weekend trips where you plan to spend most of your time outdoors in spring-summer-fall.
 
+## Ventilation and Insulation
+We designed the minivan camper for long weekend trips during the warmer spring-summer-fall seasons, primarily in the Northeastern US. So far, we've slept in the minivan for a total of 6 nights for several weekends in April and May (including several cold nights), and we've been satisfied with these ventilation and insulation solutions:
 
+- window screens as described in [Shen Ye's YouTube video](https://youtu.be/J1Rj_3LjVMw)
+- a [6" variable-speed fan with USB rechargeable battery and wrap-around legs](https://www.amazon.com/Flexible-Portable-Handheld-360°Rotatable-treadmill/dp/B0885ZP6FG)
+- [HeatShieldStore gold/black set for all windows](https://www.heatshieldstore.com), using the gold side to keep out direct sun when parked during the day, and the black side as privacy and some insulation during the night.
 
-## Ventilation
+We decided not to cut a hole in the roof of the van to insert an electric vent fan, because we don't think we need it. Let's see what happens when we have much warmer nights this summer.
 
-Our next project is to add ventilation, and we're just beginning to research different approaches.
-
-- [passive window vents](https://youtu.be/ixEpp4hoofU)
+See also solutions recommended by others:
+- [custom car window screens by Chris and Emilie](https://youtu.be/Wod7ow7pMSM)
 - [fabric screen with magnets on outside door](https://youtu.be/ALl-qQwd9yY?t=403)
 - [window screens with DC-powered fans](https://expeditionportal.com/forum/threads/window-insert-for-12vdc-fan-ventilation.161467/page-2)
 - [van room vent with DC-powered fan](https://www.youtube.com/watch?v=mXvb9SAEv5M)
-- and Bruce Parks gets a special mention for his [custom screens](https://youtu.be/XaPqxGuifpA) and [electric vent intake system](https://youtu.be/oO2-2EKtJLc?t=203)
+- [Bruce Parks created custom screens](https://youtu.be/XaPqxGuifpA) and [electric vent intake system](https://youtu.be/oO2-2EKtJLc?t=203)
 
-Suggestions welcome!
+## Solar-heated Shower
+Originally, we thought about building this [REI DIY car-top solar camp shower](https://www.rei.com/blog/camp/diy-car-top-solar-camp-shower), but decided against it for several reasons. First, we prefer not to carry anything on the van roof that's not absolutely necessary, and we didn't think we would regularly use a solar shower. Driving around with an extra 60+ pounds of water sloshing around on top of the van seemed to invite trouble. Also, while the REI design is clever, the parts would have cost me over $80, and some people in the comments had problems finding satisfactory parts that fit well together. Instead, we used our family's REI 20% discount coupon to purchase a collapsible [Helio solar-heated pressure shower](https://www.rei.com/product/163887/nemo-helio-pressure-shower-11-liters), on sale for $79. We haven't yet tried it out in the field, but one advantage is that you can carry it to a water spigot, fill it up, and set it anywhere in the sun to warm up, meaning that we can leave our minivan parked in the shade under a tree. Will post an update after we've used it.
