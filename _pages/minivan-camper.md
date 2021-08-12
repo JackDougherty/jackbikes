@@ -114,6 +114,13 @@ So that's how our decision-making process came back to a minivan camper. We boug
 
 To be clear, we are *not* a tall family (I'm only 5' 6"), so we fit better inside smaller spaces. Initially, that was another reason why we leaned toward the minivan camper. But during our design phase, we intentionally tested it on taller people, such as a certain boyfriend who is 6'4", and found that it still worked. So while a larger van makes sense if you're really tall and spend lots of time inside of it, preferably standing up, consider whether a minivan camper still works for long-weekend trips where you plan to spend most of your time outdoors in spring-summer-fall.
 
+## Camp Stoves and Fuel
+Many campers debate the merits of propane stoves versus butane stoves versus other fuel sources. Some YouTube viewers have commented that it's possible to refill a 1-pound propane canister with an adapter to a 20-pound propane tank, and several people do it. But many YouTube videos also describe safety issues and warnings to "check local laws" before refilling propane canisters.
+
+My goal was to find a stove that's safe and easy for all family members to use with our minivan camper, and a butane stove addresses our needs. While it's true that a propane stove will work a higher altitudes (mountains) and very low temperatures (freezing), that's not where we go camping. Also, while I don't like using disposable butane cans, we do our best to conserve fuel while cooking and seem to average about 6-7 meals per can at $3 each.
+
+When bike touring, I use a [Trangia alcohol-burning stove](https://trangia.se/en/) and purchase denatured alcohol (as we call it in the US) from the hardware store.
+
 ## Ventilation and Insulation
 We designed the minivan camper for long weekend trips during the warmer spring-summer-fall seasons, primarily in the Northeastern US. So far, we've slept in the minivan for a total of 10 nights (including cold weekends in April, and warm weekends in July), and we've been satisfied with these ventilation and insulation solutions:
 
