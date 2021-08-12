@@ -1,11 +1,15 @@
 ---
 title: "Minivan Camper"
 permalink: /minivan-camper/
-date: 2021-05-08
+date: 2021-08-11
 ---
 We built a minivan camper that slides into 2016 Toyota Sienna to give us more flexibility for long-weekend trips and long-distance bike touring. Our custom design features a small kitchen and refrigerator, a portable power station with a solar panel, and a couch that converts into a full-size bed. Watch our [first-stage build YouTube video from January 2021](https://youtu.be/_hmhEr1s7F0):
 
 {% include video id="_hmhEr1s7F0" provider="youtube" %}
+
+Also watch our [second YouTube video with updates from August 2021](https://youtu.be/5HpR2weAWns)
+
+{% include video id="5HpR2weAWns" provider="youtube" %}
 
 ## Design
 We designed our camper for our 2016 Toyota Sienna LE, but it *should* work with any [3rd-generation Sienna](https://en.wikipedia.org/wiki/Toyota_Sienna) from model years 2011-2020. [Download our Sketchup design file](https://jackbikes.org/resources/minivan-camper-toyota-sienna-2021-01.skp) and open it with a [free personal Sketchup web account](https://www.sketchup.com/try-sketchup#for-personal). We are freely sharing our design as-is, with no warranty, so use at your own risk. We encourage you to improve on our design and freely share your ideas with others.
@@ -30,7 +34,7 @@ See also [Professor Hobo](https://www.youtube.com/c/HOBOTECH/videos), YouTube ch
 Current list of items purchased for our build. We include links to provide more information. But we encourage you to **buy locally** whenever feasible, and we do **not** receive any promotional fees from Amazon or other companies.
 
 | Category | Cost | Item and Link |
-|-|-|-|
+|---|---|---|
 | Bed-Couch-Cabinets | $235 | [3/4" cabinet-grade plywood, we chose pre-finished maple, two 4x8 sheets](https://parkervillewoodproducts.com/plywood-pricing/) |
 |  | $15 | [1/4" plywood for cabinet backing, quarter sheet](https://parkervillewoodproducts.com/plywood-pricing/) |
 |  | $37 | [2x4x8' lumber x 5, get best quality you can find, ](https://sanhaw.com) |
@@ -41,12 +45,13 @@ Current list of items purchased for our build. We include links to provide more 
 |  | $14 | [Structural Screws GRK RSS10212HP 10 by 2-1/2-Inch, 50 pack](https://www.amazon.com/gp/product/B000I1E9F8) |
 |  | $24 | [Ace steel closed bar holder for 2x4, 4 pieces, to turn bed into couch](https://www.acehardware.com/departments/hardware/door-hardware/door-components-and-hardware/5286620) |
 |  | $11 | [Velcro heavy-duty tape 1" x 10'](https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_asin_title_o08_s00) |
-|  | $5 | [1"x2"x6' pine board for single legs for cabinet tables](https://www.homedepot.com/p/1-in-x-2-in-x-6-ft-Select-Pine-Board-921494/202535799) |
+|  | $10 | [cabinet magnets x 8](https://www.acehardware.com/departments/hardware/door-hardware/door-catches/55056) |
 |  | $8 | [5" flat corner braces x 4 to attached cabinets to seat bolts](https://www.homedepot.com/p/Everbilt-5-in-Zinc-Plated-Flat-Corner-Brace-15074/202033941) |
+|  | $5 | [shelf support clips x 8](https://www.acehardware.com/departments/hardware/angles-braces-and-brackets/brackets/59677) |
+|  | $5 | [1"x2"x6' pine board for single legs for cabinet tables](https://www.homedepot.com/p/1-in-x-2-in-x-6-ft-Select-Pine-Board-921494/202535799) |
 |  | $5 | [6 x 5/8" inch wood screws, 3 dozen, to connect piano hinge to plywood](https://www.amazon.com/Snug-Fastener-Coated-Phillips-SNG2/dp/B07L4B4XR4/) |
 |  | $5 | [6 x 1 1/4" wood screws, 3 dozen, to connect plywood to frame](https://www.amazon.com/Hillman-Group-40024-Phillips-100-Pack/dp/B000BQKBNO/) |
 |  | $5 | [8 x 3/4" pan head screws, 3 dozen, to connect table rail to plywood](https://www.amazon.com/Stainless-Phillips-Screws-Bolt-Dropper/dp/B076CRM885) |
-|  | $5 | [shelf support clips x 8](https://www.acehardware.com/departments/hardware/angles-braces-and-brackets/brackets/59677) |
 | Bedding | $133 | [Milliard Full-Size Tri Folding Mattress with Washable Cover, 73 x 52 x 4 inches](https://www.amazon.com/Milliard-Folding-Mattress-Ultra-Washable/dp/B00W67PAPK) |
 |  | $30 | [Cylindrical bolster pillow to replace armrests 5"x13" gray x 2](https://www.etsy.com/listing/893942122/bamboo-gray-round-cervical-roll-cylinder) |
 | Electrical | $499 | [Jackery Portable Power Station Explorer 500](https://www.jackery.com/products/explorer-500w-portable-power-station) |
@@ -71,17 +76,19 @@ Current list of items purchased for our build. We include links to provide more 
 | Shade & Ventilation | $225 | [HeatShieldStore gold/black set for all windows, Toyota Sienna 2016](https://www.heatshieldstore.com) |
 |  | $40 | [Auto Ventshade window deflector set for Toyota Sienna 2016](https://www.amazon.com/Auto-Ventshade-94365-Ventvisor-Deflector/dp/B003ZJ2IQM/ref=sr_1_1?crid=2C3J0RF2TYI7Y&dchild=1&keywords=window+deflectors&pd_rd_r=05216102-f21c-4b0b-b5d1-c46c2381f109&pd_rd_w=WU8Rf&pd_rd_wg=mAwVi&pf_rd_p=bec88bc8-d41e-4895-a8dc-a35e165b8995&pf_rd_r=5CFDG3QFH45469EBQJHY&pid=NoqZhm1&qid=1613274203&sprefix=window+defle%2Caps%2C179&sr=1-1&vehicle=2016-76-1027-269--40-6--7937--1-1--213-&vehicleName=2016+Toyota+Sienna) |
 |  | $73 | [8'x8' Everbilt popup canopy tent](https://www.homedepot.com/p/Everbilt-8-ft-x-8-ft-Grey-Straight-Leg-Instant-Canopy-Pop-Up-Tent-CL64-B/313611482?MERCH=REC-_-pip_alternatives-_-309982613-_-313611482-_-N&) |
-|  | $26 | [Orange Screw ground anchors large x 2](https://www.amazon.com/Orange-Screw-Ultimate-Ground-Anchor/dp/B01B26DHAU/) |
+|  | $47 | [Polyester mosquito netting 72" wide x 15 yards (to wrap around canopy tent)](https://www.joann.com/utility-fabric-mosquito-netting-white/10173292.html) |
+|  | $10 | [Stainless steel clothespins (to clip mosquito netting on canopy tent)](https://www.amazon.com/dp/B07W5WTJDH) |
+|  | $26 | [6" variable-speed fan with USB rechargeable battery and wrap-around legs](https://www.amazon.com/Flexible-Portable-Handheld-360°Rotatable-treadmill/dp/B0885ZP6FG) |
+|  | $26 | [Orange Screw ground anchors large (for canopy) x 2](https://www.amazon.com/Orange-Screw-Ultimate-Ground-Anchor/dp/B01B26DHAU/) |
 |  | $13 | [guy lines with tent stakes](https://www.amazon.com/gp/product/B07FNG6X8T/ref=ox_sc_act_title_1?smid=A1N847EN94T6V8&psc=1) |
 |  | $10 | [nylon web strap 1" x 10 yard to make window vent screens](https://www.amazon.com/Strapworks-Heavyweight-Polypropylene-Webbing-Strapping/dp/B01KTVG0KI) |
 |  | $12 | [Lock in gutter guard 3' x 4 to make window vent screens](https://www.homedepot.com/p/Metal-Black-Lock-in-Gutter-Guard-6360X2/205207064) |
 |  | $8 | [Scotch extreme mounting double-sided tape exterior to make window vent screens](https://www.homedepot.com/p/3M-Scotch-1-in-x-1-66-yds-Permanent-Double-Sided-Extreme-Mounting-Tape-414DC-SF/203405976?) |
 |  | $8 | [36x84" window screen (charcoal) to make window vent screens](https://www.homedepot.com/p/Saint-Gobain-ADFORS-36-in-x-84-in-Charcoal-Aluminum-Window-Screen-FCS9370-M/100260694) |
 |  | $5 | [Loctite clear silicon adhesive to seal window vent screens](https://www.homedepot.com/p/Loctite-Clear-Silicone-2-7-fl-oz-Waterproof-Sealant-908570/303769575?) |
-|  | $26 | [6" variable-speed fan with USB rechargeable battery and wrap-around legs](https://www.amazon.com/Flexible-Portable-Handheld-360°Rotatable-treadmill/dp/B0885ZP6FG) |
 | Tow hitch & bike rack | $219 | [UHaul 2" tow hitch and installation](https://www.uhaul.com/Trailer-Hitches/) |
-|  | $440 | [CycleSimplex tow hitch bike rack: One Tandem and One Reg Non-Tilt](https://www.cyclesimplex.com/collections/tandem-bike-racks/products/one-tandem-one-regular-bike-hitch-rack) |
-| Current Total | $3,230 |  |
+|  | $440 | [Thule Apex XT 4-bike hitch rack (tilts down to open back hatch)](https://www.rei.com/product/152007/thule-apex-xt-4-bike-hitch-rack) |
+| Current Total | $3,297 |  |
 
 ## Why?
 Why build a minivan camper? Why not other options? Your situation may be very different, but here's how we defined our needs and decided on our best options.
@@ -108,7 +115,7 @@ So that's how our decision-making process came back to a minivan camper. We boug
 To be clear, we are *not* a tall family (I'm only 5' 6"), so we fit better inside smaller spaces. Initially, that was another reason why we leaned toward the minivan camper. But during our design phase, we intentionally tested it on taller people, such as a certain boyfriend who is 6'4", and found that it still worked. So while a larger van makes sense if you're really tall and spend lots of time inside of it, preferably standing up, consider whether a minivan camper still works for long-weekend trips where you plan to spend most of your time outdoors in spring-summer-fall.
 
 ## Ventilation and Insulation
-We designed the minivan camper for long weekend trips during the warmer spring-summer-fall seasons, primarily in the Northeastern US. So far, we've slept in the minivan for a total of 6 nights for several weekends in April and May (including several cold nights), and we've been satisfied with these ventilation and insulation solutions:
+We designed the minivan camper for long weekend trips during the warmer spring-summer-fall seasons, primarily in the Northeastern US. So far, we've slept in the minivan for a total of 10 nights (including cold weekends in April, and warm weekends in July), and we've been satisfied with these ventilation and insulation solutions:
 
 - window screens as described in [Shen Ye's YouTube video](https://youtu.be/J1Rj_3LjVMw)
 - a [6" variable-speed fan with USB rechargeable battery and wrap-around legs](https://www.amazon.com/Flexible-Portable-Handheld-360°Rotatable-treadmill/dp/B0885ZP6FG)
@@ -116,7 +123,7 @@ We designed the minivan camper for long weekend trips during the warmer spring-s
 
 We decided not to cut a hole in the roof of the van to insert an electric vent fan, because we don't think we need it. Let's see what happens when we have much warmer nights this summer.
 
-See also solutions recommended by others:
+See other ventilation solutions recommended by others:
 - [custom car window screens by Chris and Emilie](https://youtu.be/Wod7ow7pMSM)
 - [fabric screen with magnets on outside door](https://youtu.be/ALl-qQwd9yY?t=403)
 - [window screens with DC-powered fans](https://expeditionportal.com/forum/threads/window-insert-for-12vdc-fan-ventilation.161467/page-2)
