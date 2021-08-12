@@ -7,7 +7,7 @@ We built a minivan camper that slides into 2016 Toyota Sienna to give us more fl
 
 {% include video id="_hmhEr1s7F0" provider="youtube" %}
 
-Also watch our [second YouTube video with updates from August 2021](https://youtu.be/5HpR2weAWns)
+Watch our [second YouTube video with updates from August 2021](https://youtu.be/5HpR2weAWns):
 
 {% include video id="5HpR2weAWns" provider="youtube" %}
 
