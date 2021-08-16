@@ -9,6 +9,7 @@ categories:
   - BikeMapCode
   - Reflections
   - Northwest Tour 2014
+  - Europe
 ---
 ### Link types
 - Visible link uses angle brackets <http://google.com>
