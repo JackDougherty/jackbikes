@@ -10,7 +10,7 @@ header:
 Touring by bike helps me to see and experience more of the world than driving a car or walking by foot. Read my [tours with maps posts](https://jackbikes.org/categories/#tours-with-maps).
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/europe.html" width="95%" height="600px"></iframe>
-Open [full-size interactive map of Europe bike tour August-September 2021](https://jackdougherty.github.io/bikemapcode/europe.html) and see [all posts about Europe trip](https://jackbikes.org/categories/#europe).
+Open [full-size interactive map of Europe bike tour August-September 2021](https://jackdougherty.github.io/bikemapcode/europe.html) and also see [all posts about Jack and Eva's Europe trip](https://jackbikes.org/categories/#europe).
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/index.html" width="95%" height="400px"></iframe>
 Open [full-size interactive map of US-Canadian tours](https://jackdougherty.github.io/bikemapcode/index.html).
