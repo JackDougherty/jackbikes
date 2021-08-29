@@ -18,7 +18,7 @@ On the second day of our trip, while sitting in a vegetarian cafe in Utrecht, Ev
 
 One highlight of our travels in the Netherlands included staying at [nature camp sites](https://www.natuurkampeerterreinen.nl/?lang=en), a network of hosts that welcome bicycles, hikers, tents, and small camper vans, and that value lowering our ecological footprint on the earth. Our favorite was [Den Ouden Dam](https://terreinzoeker.natuurkampeerterreinen.nl/terreinen/gelderland/den-ouden-dam/), a family-run farm and nature camp located about 40 km east of Utrecht, where Eva fell in love with the goats, chickens, and cats---precisely why we bike here!
 
-{% include figure image_path="images/2021/2021-eva-cats-goats.jpg" caption="Eva's new Dutch BFFs include cats, chickens, and goats." %}
+{% include figure image_path="images/2021/2021-eva-cat-chicken-goats.jpg" caption="Eva's new Dutch BFFs include cats, chickens, and goats." %}
 
 At all three campsites, the quality of the facilities really impressed me. All had clean toilets, hot showers, a sink for washing dishes, and at one location, a solar-powered generator to recharge your electric devices. Given how so many under-resourced US campsites have disappointed me over the decades, especially in state parks, perhaps we could learn some lessons from how the Dutch do camping.
 
