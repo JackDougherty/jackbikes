@@ -1,7 +1,7 @@
 ---
 title: 'Biked to the Bakery - The Long Way - For my Birthday'
 date: 2020-07-16
-permalink: /2020/07/16/bakery-long-way/
+permalink: /2020-bakery-long-way/
 categories:
   - Around Hartford CT
   - East Coast Greenway

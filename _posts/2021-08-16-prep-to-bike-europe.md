@@ -1,14 +1,14 @@
 ---
 title: 'Prep to Bike Europe'
 date: 2021-08-16
-permalink: /2021-08-16/prep-to-bike-europe
+permalink: /2021-prep-to-bike-europe
 categories:
   - Tours with Maps
   - Europe
   - BikeMapCode
   - Reflections
 ---
-My daughter Eva and I are preparing to head on a two-week 700+ mile bike tour from Amsterdam, Netherlands thru Hamburg, Germany, to Copenhagen, Denmark to visit my other daughter Maya, who will be studying there for the fall semester. We're planning to stay in hostels and campgrounds along the way. Below is our tentative route, which you can open in a [full-size interactive map](https://jackdougherty.github.io/bikemapcode/europe.html)
+My daughter Eva and I are preparing to head on a two-week bike tour from Amsterdam, Netherlands thru Hamburg, Germany, to Copenhagen, Denmark to visit my other daughter Maya, who will be studying there for the fall semester. We're planning to stay in hostels and campgrounds along the way. Below is our tentative route, which you can open in a [full-size interactive map](https://jackdougherty.github.io/bikemapcode/europe.html)
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/europe.html" width="95%" height="600px"></iframe>
 
