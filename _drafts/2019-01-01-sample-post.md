@@ -1,7 +1,7 @@
 ---
 title: 'Sample Post'
 date: 2019-01-01
-permalink: /2019/01/01/sample-post/
+permalink: /2019-sample-post/
 categories:
   - Tours with Maps
   - Around Hartford CT
