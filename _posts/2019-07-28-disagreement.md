@@ -1,7 +1,7 @@
 ---
 title: 'A Disagreement Between Body Parts on a Birthday Bike Ride'
 date: 2019-07-28
-permalink: /2019/07/disagreement/
+permalink: /2019-disagreement/
 categories:
   - Around Hartford CT
   - East Coast Greenway

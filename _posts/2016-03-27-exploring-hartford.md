@@ -1,7 +1,7 @@
 ---
 title: 'Exploring Hartford on the First &#8220;Slow Roll&#8221; Sunday of 2016'
 date: 2016-03-27T19:36:47-04:00
-permalink: /2016/03/exploring-hartford/
+permalink: /2016-exploring-hartford/
 categories:
   - Around Hartford CT
 ---

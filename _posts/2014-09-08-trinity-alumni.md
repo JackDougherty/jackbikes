@@ -1,7 +1,7 @@
 ---
 title: Biking to meet Trinity alums in Eugene, Oregon
 date: 2014-09-08T12:33:21-04:00
-permalink: /2014/09/trinity-alumni/
+permalink: /2014-trinity-alumni/
 categories:
   - Northwest Tour 2014
 ---

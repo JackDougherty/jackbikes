@@ -1,7 +1,7 @@
 ---
 title: Why Bike to Trinity? Interview by Alex Perez
 date: 2015-12-17T19:24:20-04:00
-permalink: /2015/12/trinity-interview-alex-perez/
+permalink: /2015-trinity-interview-alex-perez/
 categories:
   - Around Hartford CT
   - Reflections

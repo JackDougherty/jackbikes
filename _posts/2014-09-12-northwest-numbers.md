@@ -1,7 +1,7 @@
 ---
 title: Northwest bike tour, by the numbers
 date: 2014-09-12T17:37:11-04:00
-permalink: /2014/09/northwest-numbers/
+permalink: /2014-northwest-numbers/
 categories:
   - Tours with Maps
   - Northwest Tour 2014

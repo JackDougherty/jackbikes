@@ -1,7 +1,7 @@
 ---
 title: 'Hartford &#8220;Slow Roll&#8221; and West Hartford &#8220;Wheels&#8221; Rides'
 date: 2016-06-05T11:30:41-04:00
-permalink: /2016/06/hartford-west-hartford-rides-2016/
+permalink: /2016-hartford-west-hartford-rides/
 categories:
   - Around Hartford CT
 ---

@@ -1,7 +1,7 @@
 ---
 title: Lessons Learned from Pedal to the Medal 2018
 date: 2018-10-29T00:16:26-04:00
-permalink: /2018/10/lessons-learned-from-pedal-to-the-medal-2018/
+permalink: /2018-lessons-learned-from-pedal-to-the-medal/
 categories:
   - Around Hartford CT
   - Reflections

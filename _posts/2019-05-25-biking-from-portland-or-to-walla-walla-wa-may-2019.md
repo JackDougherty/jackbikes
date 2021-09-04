@@ -1,7 +1,7 @@
 ---
 title: Biking from Portland OR to Walla Walla WA, May 2019
 date: 2019-05-25T02:16:40-04:00
-permalink: /2019/05/biking-from-portland-or-to-walla-walla-wa-may-2019/
+permalink: /2019-biking-from-portland-or-to-walla-walla-wa/
 categories:
   - Tours with Maps
 ---

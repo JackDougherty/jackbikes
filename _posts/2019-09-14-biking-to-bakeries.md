@@ -1,7 +1,7 @@
 ---
 title: 'Biking to Bakeries in Hartford Tour 2019'
 date: 2019-09-14
-permalink: /2019/09-14/biking-to-bakeries/
+permalink: /2019-biking-to-bakeries/
 categories:
   - Tours with Maps
   - Around Hartford CT

@@ -1,7 +1,7 @@
 ---
 title: A 49-year-old adolescent bikes the Northwest
 date: 2014-09-11T19:10:39-04:00
-permalink: /2014/09/northwest-reflections/
+permalink: /2014-northwest-reflections/
 categories:
   - Reflections
   - NorthWest Tour 2014

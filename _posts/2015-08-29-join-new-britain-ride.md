@@ -1,7 +1,7 @@
 ---
 title: Join the New Britain bike tour on Sunday, Sept 27th
 date: 2015-08-29T17:55:49-04:00
-permalink: /2015/08/join-new-britain-ride/
+permalink: /2015-join-new-britain-ride/
 categories:
   - Around Hartford CT
 ---

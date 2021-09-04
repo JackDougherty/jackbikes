@@ -1,7 +1,7 @@
 ---
 title: 'Reading <em>Outside Lies Magic</em>'
 date: 2016-05-29T09:37:28-04:00
-permalink: /2016/05/reading-outside-lies-magic/
+permalink: /2016-reading-outside-lies-magic/
 categories:
   - Reflections
 ---

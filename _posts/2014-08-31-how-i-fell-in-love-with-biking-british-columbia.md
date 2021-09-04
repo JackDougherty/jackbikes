@@ -1,7 +1,7 @@
 ---
 title: How I Fell in Love with Biking British Columbia
 date: 2014-08-31T18:11:36-04:00
-permalink: /2014/08/how-i-fell-in-love-with-biking-british-columbia/
+permalink: /2014-how-i-fell-in-love-with-biking-british-columbia/
 categories:
   - Northwest Tour 2014
   - Reflections

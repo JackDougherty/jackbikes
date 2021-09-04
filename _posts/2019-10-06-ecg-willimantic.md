@@ -1,7 +1,7 @@
 ---
 title: 'East Coast Greenway: New Bridge in Willimantic CT'
 date: 2019-10-06
-permalink: /2019/10/06/ecg-willimantic/
+permalink: /2019-ecg-willimantic/
 categories:
   - Tours with Maps
   - Around Hartford CT

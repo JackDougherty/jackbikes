@@ -1,7 +1,7 @@
 ---
 title: Biking from Hartford to Cambridge 2018
 date: 2018-06-14T21:35:30-04:00
-permalink: /2018/06/hartford-to-cambridge-2018/
+permalink: /2018-hartford-to-cambridge/
 categories:
   - Tours with Maps
 ---

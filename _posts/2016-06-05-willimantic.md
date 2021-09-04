@@ -1,7 +1,7 @@
 ---
 title: 'Willimantic: The Cycling Trail Connector'
 date: 2016-06-05T23:11:31-04:00
-permalink: /2016/06/willimantic/
+permalink: /2016-willimantic/
 categories:
   - Around Hartford CT
 ---

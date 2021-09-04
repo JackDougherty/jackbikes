@@ -1,7 +1,7 @@
 ---
 title: Thanks to my East Coast Greenway donors
 date: 2014-10-11T17:05:44-04:00
-permalink: /2014/10/thanks-donors/
+permalink: /2014-thanks-donors/
 categories:
   - East Coast Greenway
 ---

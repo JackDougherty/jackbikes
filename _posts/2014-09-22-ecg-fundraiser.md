@@ -1,7 +1,7 @@
 ---
 title: 'I'll rename a city or state for your East Coast Greenway donation'
 date: 2014-09-22T01:10:24-04:00
-permalink: /2014/09/ecg-fundraiser/
+permalink: /2014-ecg-fundraiser/
 categories:
   - East Coast Greenway
 ---

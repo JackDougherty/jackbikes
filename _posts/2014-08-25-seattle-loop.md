@@ -1,7 +1,7 @@
 ---
 title: Follow my Seattle-British Columbia loop 2014
 date: 2014-08-25T01:57:02-04:00
-permalink: /2014/08/seattle-loop/
+permalink: /2014-seattle-loop/
 categories:
   - Tours with Maps
   - Northwest Tour 2014

@@ -1,7 +1,7 @@
 ---
 title: Biking 30 years back into my past in Chester, PA
 date: 2014-10-05T23:40:54-04:00
-permalink: /2014/10/biking-30-years-back/
+permalink: /2014-biking-30-years-back/
 categories:
   - East Coast Greenway
   - Reflections

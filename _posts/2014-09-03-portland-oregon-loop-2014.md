@@ -1,7 +1,7 @@
 ---
 title: Follow my Portland-Oregon Coast loop 2014
 date: 2014-09-03T00:28:36-04:00
-permalink: /2014/09/portland-oregon-loop-2014/
+permalink: /2014-portland-oregon-loop/
 categories:
   - Tours with Maps
   - Northwest Tour 2014

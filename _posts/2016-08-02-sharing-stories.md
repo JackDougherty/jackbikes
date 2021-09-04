@@ -1,7 +1,7 @@
 ---
 title: Sharing Stories with Bike Friday cyclists from Quebec City
 date: 2016-08-02T14:16:35-04:00
-permalink: /2016/08/sharing-stories/
+permalink: /2016-sharing-stories/
 categories:
   - Reflections
 ---

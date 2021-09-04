@@ -1,7 +1,7 @@
 ---
 title: A Northwest adventure begins
 date: 2014-08-24T23:34:25-04:00
-permalink: /2014/08/a-northwest-adventure-begins/
+permalink: /2014-a-northwest-adventure-begins/
 categories:
   - Northwest Tour 2014
 ---

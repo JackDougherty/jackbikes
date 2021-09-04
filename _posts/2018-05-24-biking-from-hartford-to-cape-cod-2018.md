@@ -1,7 +1,7 @@
 ---
 title: Biking from Hartford to Cape Cod 2018
 date: 2018-05-24T21:28:10-04:00
-permalink: /2018/05/biking-from-hartford-to-cape-cod-2018/
+permalink: /2018-biking-from-hartford-to-cape-cod/
 categories:
   - Tours with Maps
 ---

@@ -1,7 +1,7 @@
 ---
 title: Never ride on an empty stomach
 date: 2014-08-25T12:09:22-04:00
-permalink: /2014/08/never-ride-on-an-empty-stomach/
+permalink: /2014-never-ride-on-an-empty-stomach/
 categories:
   - Northwest Tour 2014
 ---

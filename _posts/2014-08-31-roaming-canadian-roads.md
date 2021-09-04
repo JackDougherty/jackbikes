@@ -1,7 +1,7 @@
 ---
 title: Roaming Canadian Roads (without roaming charges)
 date: 2014-08-31T18:45:28-04:00
-permalink: /2014/08/roaming-canadian-roads/
+permalink: /2014-roaming-canadian-roads/
 categories:
   - Tours with Maps
   - Northwest Tour 2014

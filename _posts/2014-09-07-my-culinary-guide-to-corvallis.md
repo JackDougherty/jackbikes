@@ -1,7 +1,7 @@
 ---
 title: My Culinary Guide to Corvallis
 date: 2014-09-07T00:59:28-04:00
-permalink: /2014/09/my-culinary-guide-to-corvallis/
+permalink: /2014-my-culinary-guide-to-corvallis/
 categories:
   - Northwest Tour 2014
 ---

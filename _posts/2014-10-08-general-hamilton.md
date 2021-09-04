@@ -1,7 +1,7 @@
 ---
 title: How General Andy Hamilton led us across the Susquehanna River
 date: 2014-10-08T08:43:56-04:00
-permalink: /2014/10/general-hamilton/
+permalink: /2014-general-hamilton/
 categories:
   - East Coast Greenway
 ---

@@ -1,7 +1,7 @@
 ---
 title: New Trail in Cheshire, and Bicycle History in New Haven
 date: 2016-06-26T23:33:01-04:00
-permalink: /2016/06/cheshire-new-haven/
+permalink: /2016-cheshire-new-haven/
 categories:
   - Around Hartford CT
 ---

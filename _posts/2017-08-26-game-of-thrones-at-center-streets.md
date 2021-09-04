@@ -1,7 +1,7 @@
 ---
 title: 'Game of Thrones Mixup with West Hartford Center Streets'
 date: 2017-08-26T18:39:38-04:00
-permalink: /2017/08/game-of-thrones-at-center-streets/
+permalink: /2017-game-of-thrones-at-center-streets/
 categories:
   - Around Hartford CT
 ---

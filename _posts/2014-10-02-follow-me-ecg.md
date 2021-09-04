@@ -1,7 +1,7 @@
 ---
 title: 'East Coast Greenway "One Week A Year" Tour 2014 from Philly to DC'
 date: 2014-10-02T11:57:22-04:00
-permalink: /2014/10/follow-me-ecg/
+permalink: /2014-follow-me-ecg/
 categories:
   - Tours with Maps
   - East Coast Greenway

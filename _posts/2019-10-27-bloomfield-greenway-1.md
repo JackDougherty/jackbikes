@@ -1,7 +1,7 @@
 ---
 title: 'Bloomfield Greenway Section 1'
 date: 2019-10-27
-permalink: /2019/10/27/bloomfield-greenway-1/
+permalink: /2019-bloomfield-greenway-1/
 categories:
   - Tours with Maps
   - Around Hartford CT

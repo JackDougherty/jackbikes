@@ -1,7 +1,7 @@
 ---
 title: Discover West Hartford 2015, with Ideas for 2016
 date: 2015-06-07T18:00:08-04:00
-permalink: /2015/06/discover-west-hartford/
+permalink: /2015-discover-west-hartford/
 categories:
   - Around Hartford CT
   - Reflections
