@@ -44,7 +44,9 @@ Here's a day-by-day summary of our travels and distance covered on our tour to h
 
 - 761 km total distance travelled, according to my odometer. If you count only the distance we covered between overnight destinations from Amsterdam to Zwolle and from Lübeck to Copenhagen, and drop the riding we did inside cities, we biked about 660 km over 9 travel days, or about 73 km per day (ranging from a low of 40 km to a high of 93 km).
 
-- 0 flat tires or crashes.
+- 0 flat tires.
+
+- 6 pounds of body weight lost, despite eating heartily.
 
 - Lots of happy memories.
 
