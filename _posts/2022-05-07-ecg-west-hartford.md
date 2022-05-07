@@ -5,6 +5,7 @@ permalink: /ecg-west-hartford/
 categories:
   - Around Hartford CT
   - East Coast Greenway
+  - Tours with Maps
 ---
 Bike tourists riding on the [East Coast Greenway](https://greenway.org) often contact us through [Warmshowers](https://warmshowers.org) to request to stay overnight at our home in West Hartford, located less than a mile from the route in Hartford. We enjoy hosting cyclists and sharing stories about travel on two wheels. But the current [official ECG trail heading north from New Haven to Hartford](https://map.greenway.org/?loc=10,41.57950,-73.00552&route=41.30948,-72.92705,41.76972,-72.71189) sends riders on a long 54-mile route through Farmington, Avon, Simsbury, and Bloomfield, with a 1,915 foot total elevation gain. The most unpleasant portion of ECG section is Simsbury Road (aka Route 185), a busy road during rush hour with a narrow shoulder up a long hill, with a 350 foot gain over 1 mile. It's not the best way to make cycling tourists feel welcome! Although there are future plans to re-route this portion of the ECG onto a bike trail, it's still years away from completion.
 
