@@ -4,7 +4,7 @@ date: 2014-09-11T19:10:39-04:00
 permalink: /2014-northwest-reflections/
 categories:
   - Reflections
-  - NorthWest Tour 2014
+  - Northwest Tour 2014
 ---
 After nearly twenty days and 800+ miles biking around the Northwest, my legs have gone on strike, my brain is ready to go back to work, and my heart is eager to come home to my family. It's been a ridiculously fun adventure, with spectacular views, delicious food, and friendly people. A big thank you goes to my sweetie Beth, who allowed (some might say encouraged) me to go on this trip; my teenage children, who took on cooking duties and household chores in my absence; and my wonderful sisters Kris and Ellen for providing me a base camp in Seattle.
 
