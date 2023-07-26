@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /
-date: 2021-08-22
+date: 2023-07-26
 layout: posts
 header:
   image: /images/home/jackbikesheader1280w.jpg
@@ -9,7 +9,9 @@ header:
 ---
 Current bike trip: Hartford CT to Burlington VT, July 25-30 2023
 Click "photos" in upper-right corner to view images during trip
-<iframe src="https://jackdougherty.github.io/bikemapcode/vermont2023.html" width="95%" height="850px"></iframe>
+Or [view my Flickr album](https://flic.kr/s/aHBqjANLfM)
+
+<iframe src="https://jackdougherty.github.io/bikemapcode/vermont2023.html" width="95%" height="825px"></iframe>
 
 Touring by bike helps me to see and experience more of the world than driving a car or walking by foot. Read my [tours with maps posts](https://jackbikes.org/categories/#tours-with-maps).
 
