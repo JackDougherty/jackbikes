@@ -8,8 +8,7 @@ header:
   image_description: "JackBikes photo montage"
 ---
 Current bike trip: Hartford CT to Burlington VT, July 25-30 2023
-Click "photos" in upper-right corner to view images during trip
-Or [view my Flickr album](https://flic.kr/s/aHBqjANLfM)
+[View my Flickr album](https://flic.kr/s/aHBqjANLfM)
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/vermont2023.html" width="95%" height="825px"></iframe>
 
