@@ -8,12 +8,12 @@ header:
   image_description: "JackBikes photo montage"
 ---
 Current bike trip: Hartford CT to Grand Isle State Park VT, July 25-30 2023
-- View route segments on RideWithGPS (still need to clean up a bit)
+- View route segments on RideWithGPS
   - Day 1: [Hartford CT to Amherst MA](https://ridewithgps.com/routes/43795019)
   - Day 2: [Amherst MA to Jamaica VT](https://ridewithgps.com/routes/43795845)
   - Day 3: [Jamaica VT to Hubbardton VT](https://ridewithgps.com/routes/43811509)
-  - Day 4: [Hubbardton VT to North Ferrisburgh VT](https://ridewithgps.com/routes/43823815)
-  - Day 5: [North Ferrisburgh VT to Grand Isle State Park VT](https://ridewithgps.com/routes/43823818)
+  - Day 4: [Hubbardton VT to North Ferrisburgh VT](https://ridewithgps.com/routes/43835533)
+  - Day 5: [North Ferrisburgh VT to Grand Isle State Park VT](https://ridewithgps.com/routes/43835559)
 - View my [Flickr photo album](https://flic.kr/s/aHBqjANLfM)
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/vermont2023.html" width="95%" height="825px"></iframe>
