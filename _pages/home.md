@@ -8,6 +8,7 @@ header:
   image_description: "JackBikes photo montage"
 ---
 Current bike trip: Hartford CT to Grand Isle State Park VT, July 25-29 2023
+- [Blog post written on a rainy afternoon near the end in Burlington](https://jackbikes.org/vermont-2023/)
 - View route segments on RideWithGPS
   - Day 1: [Hartford CT to Amherst MA](https://ridewithgps.com/routes/43795019)
   - Day 2: [Amherst MA to Jamaica VT](https://ridewithgps.com/routes/43795845)
