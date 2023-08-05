@@ -121,10 +121,10 @@ author:
       url: "https://urbanists.social/@jackdougherty"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "http://github.com/jackdougherty"
+      url: "https://github.com/jackdougherty"
     - label: "Jack at Work"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "http://jackdougherty.org"
+      url: "https://jackdougherty.org"
 
 # Site Footer
 footer:
