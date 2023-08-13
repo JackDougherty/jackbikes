@@ -116,7 +116,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:jackdrty@gmail.com
-    - label: "Mastodon"
+    - label: "Mastodon"  #Custom verification: _includes/head/custom.html
       icon: "fab fa-fw fa-mastodon"
       url: "https://urbanists.social/@jackdougherty"
     - label: "GitHub"
@@ -132,15 +132,12 @@ footer:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     url: mailto:jackdrty@gmail.com
-  - label: "Twitter"
-    icon: "fab fa-fw fa-twitter-square"
-    url: "http://twitter.com/doughertyjack"
+  - label: "Mastodon"
+    icon: "fab fa-fw fa-mastodon"
+    url: "https://urbanists.social/@jackdougherty"
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
     url: "http://github.com/jackdougherty"
-  - label: "RSS feed"
-    icon: "fas fa-fw fa-rss-square"
-    url: "https://jackbikes.org/feed.xml"
   - label: "Jack at Work"
     icon: "fas fa-fw fa-graduation-cap"
     url: "http://jackdougherty.org"
