@@ -138,9 +138,6 @@ footer:
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
     url: "http://github.com/jackdougherty"
-  - label: "Jack at Work"
-    icon: "fas fa-fw fa-graduation-cap"
-    url: "http://jackdougherty.org"
 
 # Reading Files
 include:
