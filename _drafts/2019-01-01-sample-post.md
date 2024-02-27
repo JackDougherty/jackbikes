@@ -7,6 +7,7 @@ categories:
   - Around Hartford CT
   - East Coast Greenway
   - BikeMapCode
+  - Brompton
   - Reflections
   - Northwest Tour 2014
   - Europe

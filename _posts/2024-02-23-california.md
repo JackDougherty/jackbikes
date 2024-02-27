@@ -5,6 +5,7 @@ permalink: /california-2024/
 categories:
   - Tours with Maps
   - BikeMapCode
+  - Brompton
   - Reflections
 ---
 You can't make "new" old friends, so find ways to reconnect, preferably by bike.
