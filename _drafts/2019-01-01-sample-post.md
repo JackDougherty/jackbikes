@@ -1,6 +1,7 @@
 ---
 title: 'Sample Post'
 date: 2019-01-01
+last_modified_at: 2024-01-01
 permalink: /2019-sample-post/
 categories:
   - Tours with Maps
@@ -12,28 +13,44 @@ categories:
   - Northwest Tour 2014
   - Europe
 ---
-### Link types
-- Visible link uses angle brackets <http://google.com>
-- [Embedded link: place text in brackets, URL in parentheses](http://google.com)
-- But an embedded link to an internal page or post on this site requires the full URL
+## Markdown formatting with Minimal Mistakes Jekyll theme
+Text after header appears in new line.  
+At the end of the line above, add two blank spaces to make next sentence appear on a new line.
 
-### Footnote
-Write the main text and insert a bracketed footnote symbol with a unique number or keyword.[^keyword] Then somewhere else in the main text, write the same bracketed footnote symbol and number/keyword, followed by a colon, and the footnote text.
+Lists:  
+- Visible link uses angle brackets <https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#via-markdown>
+- [Embedded link text in brackets, URL in parentheses](http://google.com)
+- Note that embedded links to internal pages or posts on this site require the full URL <https://jackdougherty.org/...>
 
-[^keyword]: Here's the footnote text.
+- Single tic marks for short one-line `code` snippets
+- Use 3 tics and add 4 spaces after each line for multi-line code snippets, like this reminder about code manually added to `assets > css > main.scss`:
+```
+.feature__wrapper {    
+    margin-bottom: 0;    
+    border-bottom: 0;    
+}    
+```
 
-### Markdown image with pre-slash pathname (no baseurl because custom domain), actual size, but no caption
-![Jack Dougherty](/images/2019/dougherty-jack-150x150.jpg)
+## Images
+Maximum 1000px original image width, or resize with css styling. Use JPG or PNG at any resolution.
 
-### [Liquid templating](https://jekyllrb.com/docs/liquid/) image in root no-slash images  
-{% include figure image_path="images/2019/sample.jpg" caption="here's the sample image" %}
+### No caption: Markdown formatted (slash prefix pathname) at full size
+![sample](/images/sample-300x200.jpg)
 
-### Liquid image in root no-slash aligned with caption
-{% include figure image_path="images/2019/sample.jpg" caption="here's the sample image" %}{: .align-right}
-This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images.
+### No caption with text wrap: Markdown image with kramdown alignment and 25% sizing
+![sample](/images/sample-300x200.jpg){: .align-right style="width: 25%;"} Insert one space then text wrap with Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### HTML iframe, with quote marks around with and height, whether percentages or pixels
+### With centered caption: Liquid formatted (no slash prefix pathname) with kramdown at full size
+{% include figure image_path="images/sample-1000x600.jpg" alt="sample image" caption="here's the caption with markdown-flavored [link](https://handsondataviz.org)" %}{: .align-center}
+
+### With centered caption: Liquid formatted with kramdown and css styling at 50% size
+{% include figure image_path="images/sample-1000x600.jpg" alt="sample image" caption="here's the caption with markdown-flavored [link](https://handsondataviz.org)" %}{: .align-center style="width:50%;"}
+
+See more details <https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet>
+
+
+### HTML iframe, with quote marks for width and height, whether percentages or pixels
 <iframe src="https://jackdougherty.youcanbook.me/" width="100%" height="600px"></iframe>
 
-### Sample YouTube
+### YouTube with Liquid formatting
 {% include video id="3sK7-g0otGM" provider="youtube" %}
