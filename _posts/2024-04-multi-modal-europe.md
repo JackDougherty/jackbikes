@@ -1,7 +1,6 @@
 ---
 title: 'Mini-Multi-Modal Trip to Europe, April 2024'
 date: 2024-04-15
-last_modified_at: 2024-04-15
 permalink: /2024-mini-multi-modal-europe/
 categories:
   - Tours with Maps
