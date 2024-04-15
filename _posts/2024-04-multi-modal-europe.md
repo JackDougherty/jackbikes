@@ -37,4 +37,10 @@ On Monday morning, as the warm sunshine turned into a cold rain more typical for
 
 On Monday afternoon, I arrived in Rotterdam, a city full of separated bike paths and crazy architecture. Was so happy to roll my bike out of the train station (after a police officer kindly explained that I needed to scan my EuroStar train ticket to pass through the turnstile) and into the sunshine! Then I pedaled about 2 km to [StayOkay Hostel-Rotterdam](https://www.stayokay.com/en/hostel/rotterdam), where I'm sleeping inside one of the [Cube House](https://en.wikipedia.org/wiki/Cube_house) rooms. The building also serves as a architectural museum. Will keep the door locked tonight to avoid any unexpected visitors or further American-European miscommunications.
 
+{% include figure image_path="images/2024/europe/bike-hail.jpg" alt="bike and hail images" caption="In Rotterdam, surrounded by bikes, and briefly by thunder hail" %}{: .align-center}
+
+I did not expect the sunshine to last as long as it did today, which was wonderful, but also surprising to experience a totally unexpected *thunder hail storm* for three minutes while walking around the downtown area this evening. Fortunately, it passed by very quickly. Hoping for clearer skies later this week.
+
+{% include figure image_path="images/2024/europe/cube-house.jpg" alt="Cube House images" caption="Spending the night in a funky Cube House room at StayOkay Hostel-Rotterdam" %}{: .align-center}
+
 Adventures to be continued... Tuesday night in The Hague, the Beth and our daughter Maya will join me Wednesday and Thursday night on a houseboat in Amsterdam, and Friday and Saturday night in nearby Haarlem and the Leiden tulip festival. Stay tuned.
