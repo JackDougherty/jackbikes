@@ -2,11 +2,9 @@
 main:
 - title: "Home"
   url: /
-- title: "All Posts"
-  url: /categories/
+- title: "Posts"
+  url: /posts/
 - title: "Tours+Maps"
   url: /categories/#tours-with-maps
 - title: "Minivan Camper"
   url: /minivan-camper/
-- title: "Hartford Area"
-  url: /categories/#around-hartford-ct
