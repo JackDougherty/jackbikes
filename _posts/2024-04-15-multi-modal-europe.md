@@ -59,4 +59,4 @@ My bike tour ended in Amsterdam, but adventures with Beth and Maya continued. We
 
 Beth, Maya, and I finished our travels in the nearby city of Haarlem. On Saturday we rode the bus to the Keukenhof tulip gardens, then rented bikes to ride into the tulip fields, which were spectacular -- see [short Instagram video](https://www.instagram.com/reel/C5_kEdoodZS/). I love riding in the Netherlands, where the cycling infrastructure and culture make me feel safe on my bike, and look forward to returning in the future, perhaps during months with less rain.
 
-{% include figure image_path="images/2024/europe/tulips.jpg" alt="tulip image" caption="Biking in the Keukenhof tulip fields with Beth and Maya." %}{: .align-center style="width:75%;"}
+{% include figure image_path="images/2024/europe/tulips.jpg" alt="tulip image" caption="Biking in the Keukenhof tulip fields with Beth and Maya." %}{: .align-center style="width:50%;"}
