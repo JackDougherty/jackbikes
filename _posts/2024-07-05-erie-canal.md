@@ -1,0 +1,33 @@
+---
+title: 'Fair Haven to Albany NY on the Erie Canal Trail 2024'
+date: 2024-07-05
+permalink: /erie-canal-2024/
+categories:
+  - Tours with Maps
+  - Reflections
+---
+On July 3-4-5th 2024, I biked from my mother's summer camp in Fair Haven NY (a bay on Lake Ontario) to the Erie Canal & [Empire Trail](https://empiretrail.ny.gov) bike path thru Syracuse to Albany. Although much of the route is a marked bike path, it's a mix single-track gravel, paved bike path, rural back roads, and city streets. Beware of sections under construction around Rome NY, which was a mess when I rode. Good tent camping locations described below. [View the full-screen map of my 230-mile route and click "photos" in the upper-right corner](https://jackdougherty.github.io/bikemapcode/index.html) or [explore and download my route on Cycle.Travel](https://cycle.travel/map/journey/668671).
+
+<iframe src="https://jackdougherty.github.io/bikemapcode/index.html" width="100%" height="600px"></iframe>
+
+Day 1: Started biking from my mother’s summer camp in Fair Haven NY and headed south to catch the Erie Canal / Empire State Trail thru Jordan, downtown Syracuse, Canastota, then north to bike-friendly Verona Beach State Park on Oneida Lake. The marked trail was easy to follow except one turn that confused me when entering the New York State Fairgrounds in Syracuse. But bonus points to the Empire State Trail engineers who creatively routed the path through the Fairgrounds onto an existing pedestrian bridge over a highway, and around Onondaga Lake (thank you Clean Water Act), then the Onondaga Creekway into downtown Syracuse. Very impressed with the separated bike path on the median of the Erie Boulevard commercial district.
+
+{% include figure image_path="images/2024/erie-canal/day1.jpg" alt="erie canal day one" caption="Started from my mother's summer camp in Fair Haven NY, onto Erie Canal / Empire Trail in Jordan, thru the NY State Fairgrounds in Syracuse." %}{: .align-center style="width:75%;"}
+
+While pedaling through the rural old Erie Canal route east of Syracuse, I met another cyclist who graduated from Morrisville College (my hometown) in dairy science in 1960. He didn't recall my mother's name, but knew the Cherry Valley Inn, the bar where they met around that time. Rolled into Chittenango NY and stopped at the popular North Pole ice cream stand for a chocolate milkshake rest break on a hot day. While sitting on their shaded bench, I noticed my rear tire was flat. With my low vision, I proudly found the hole in the tube by running it next to my lips to feel the small leak, and also removed a tiny glass shard from inside the tire. In nearby Canastota, I stopped to say hello to the crew working at Dougherty Pharmacy, the newest of three stores owned by Colin Ventura, and it's great that he kept using our family name. Also made good use of their nice bike racks out front, and bought a sub sandwich and root beer for dinner from New York Pizzeria.
+
+Pedaled to my campsite at [Verona Beach State Park](https://parks.ny.gov/parks/102/details.aspx) on Oneida Lake, less than 10 miles from the Empire Trail, and worth it. The ranger said I was the first person to use their new bike-friendly campsites, which do not yet appear on their website or online map. On their paper map, see the five circles for bike-friendly sites, no reservation but fee required, located across from regular sites numbered 35-37. Bring bug spray. Enjoyed a warm shower with no quarters required, and watched a hazy sunset over Oneida Lake. Total 84 miles on Day 1.
+
+{% include figure image_path="images/2024/erie-canal/day1b.jpg" alt="erie canal day one part b" caption="Impressed with Empire Trail separated bike path through downtown Syracuse, and also with new bike-friendly camp sites at Verona Beach State Park (see five circles drawn on paper map), located on the shore of Oneida Lake." %}{: .align-center style="width:75%;"}
+
+Day 2: Early morning start for this hot day on the 4th of July. Pedaled on back roads to hop back onto the Erie Canal / Empire State Trail. Beware Rome! Do not follow my mapped route thru the city, where the bike trail had several messy detours onto busy four-lane roads. (They must be improving the route because it could not get any worse than it already is!) Stopped for a cold water break at Fort Stanwix National Monument, worth a visit, and was just in time for a reading of Declaration of Independence and ceremonial firing of the cannon (because 4th of July). Long hot ride along the canal path, with breaks to watch boats pass thru the locks.
+
+Camped overnight at Lock 15 in Fort Plain, a free primitive campsite with neighboring peacocks, train route, and highway (bring earplugs). Moved my tent closer to the canal for the calming water to drown out the other noises. Most of these lock campsites do not have potable water, but this one did, though I did not find the faucet until I was leaving the next morning. Afternoon snack and dinner provided by Stewart’s (because 4th of July and everything else was closed). Three chocolate milks today fueled me for day 2 total of 75 miles.
+
+{% include figure image_path="images/2024/erie-canal/day2.jpg" alt="erie canal day two" caption="Visited Fort Stanwix for its July 4th cannon firing celebration, and camped overnight for free at Lock 15 primitive campsite in Fort Plain. Bring earplugs for both." %}{: .align-center style="width:75%;"}
+
+Day 3: Started at Fort Plain and pedaled 80 miles on very humid day to Albany. Biked through several canal towns, the city of Schenectady, and the surprisingly steep hills around Niskayuna, and along the Hudson River into downtown Albany. Took fewer pictures because I was dodging thunderstorms and eager to finish this three-day trip and reunite with my sweetie Beth!
+
+Overall, the Empire Trail project has greatly improved the quality of biking along the Erie Canal across New York State. I'm very impressed with creative trail engineering through Syracuse, and new bike-friendly campsites at Verona Beach State Park. But selected segments of this trail -- some rural and some urban -- are still embarrasingly underdeveloped or downright dangerous, as of July 2024. Looking forward to continued improvements.
+
+{% include figure image_path="images/2024/erie-canal/day3.jpg" alt="erie canal day three" caption="Departing Fort Plain, biking along the Hudson into Albany, and reuniting with my sweetie!" %}{: .align-center style="width:75%;"}
