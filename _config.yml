@@ -116,9 +116,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:jackdrty@gmail.com
-    - label: "Mastodon"  #Custom verification: _includes/head/custom.html
+    - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://urbanists.social/@jackdougherty"
+      url: "https://mstdn.social/@jackdougherty"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jackdougherty"
@@ -134,7 +134,7 @@ footer:
     url: mailto:jackdrty@gmail.com
   - label: "Mastodon"
     icon: "fab fa-fw fa-mastodon"
-    url: "https://urbanists.social/@jackdougherty"
+    url: "https://mstdn.social/@jackdougherty"
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
     url: "http://github.com/jackdougherty"
