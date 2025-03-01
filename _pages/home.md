@@ -1,24 +1,25 @@
 ---
 title: ""
 permalink: /
-date: 2023-09-01
+date: 2025-03-01
 layout: posts
 header:
   image: /images/home/jackbikesheader1280w.jpg
   image_description: "JackBikes photo montage"
 ---
-<a rel="me" href="https://urbanists.social/@jackdougherty"></a>
+Traveling by bike -- both locally and long-distance touring -- makes me feel more connected with the world than being trapped inside metal boxes we call cars.
 
-Touring by bike helps me to see and experience more of the world than riding in a car. Read my [tours with maps posts](https://jackbikes.org/categories/#tours-with-maps). Open the [full-size interactive map of my US-Canadian tours](https://jackdougherty.github.io/bikemapcode/index.html), select routes to read posts, click the box to view thumbnail photos on the map, or view [my tour photos on Flickr](https://www.flickr.com/photos/56513965@N06/albums).
+- View [all posts](#all-posts), including [biking around Hartford CT](/categories/#around-hartford-ct) and [tours with maps](/categories/#tours-with-maps)
+- See walk-bike-transit advocacy and route maps on the [Bike West Hartford site](https://bikewesthartford.org)
+- Learn how we built our [minivan camper](/minivan-camper) that comfortably sleeps two and carries bikes
+- Explore full-size interactive maps of my bike tours in the [US and Canada](https://jackdougherty.github.io/bikemapcode/index.html)
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/index.html" width="95%" height="400px"></iframe>
 
-Read posts from my [European bike tour](https://jackbikes.org/categories/#europe) with my daughter Eva from Amsterdam to Copenhagen to visit my other daughter Maya in Aug-Sept 2021. Open the [full-size interactive map of Europe bike tour](https://jackdougherty.github.io/bikemapcode/europe.html) with thumbnail photos along our route, or view [all photos from the tour on Flickr](https://www.flickr.com/photos/56513965@N06/albums/72157719685944554).
+Click colored routes to read posts. Click upper-right Photos box to view thumbnail images on maps. View [all bike tour photos on Flickr](https://www.flickr.com/photos/56513965@N06/albums).
+
+See also posts about [bike touring in Europe](/categories/#europe) and explore the [full-size interactive map of my Europe bike tour](https://jackdougherty.github.io/bikemapcode/europe.html).
 
 <iframe src="https://jackdougherty.github.io/bikemapcode/europe.html" width="95%" height="600px"></iframe>
-
-Read my posts on [biking around Hartford CT](https://jackbikes.org/categories/#around-hartford-ct), and also my bike-walk-transit advocacy work and route recommendations with [Bike West Hartford](https://bikewesthartford.org). See also the [BiCiCo community bike shops](https://bicico.org), located in Hartford and West Hartford.  
-
-Learn about our [Minivan Camper](https://jackbikes.org/minivan-camper) that slides inside our 2016 Toyota Sienna and comfortably sleeps two people.
 
 ### All Posts
