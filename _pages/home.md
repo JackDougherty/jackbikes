@@ -9,6 +9,7 @@ header:
 ---
 Traveling by bike -- both locally and long-distance touring -- makes me feel more connected with the world than being trapped inside metal boxes we call cars.
 
+- Contact [Jack by email](mailto:jackdrty@gmail.com) or [schedule a Zoom meeting on his calendar](https://jackdougherty.org/calendar)
 - View [all posts](#all-posts), including [biking around Hartford CT](/categories/#around-hartford-ct) and [tours with maps](/categories/#tours-with-maps)
 - See walk-bike-transit advocacy and route maps on the [Bike West Hartford site](https://bikewesthartford.org)
 - Learn how we built our [minivan camper](/minivan-camper) that comfortably sleeps two and carries bikes
