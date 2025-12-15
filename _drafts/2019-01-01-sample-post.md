@@ -5,6 +5,7 @@ last_modified_at: 2024-01-01
 permalink: /2019-sample-post/
 categories:
   - Tours with Maps
+  - Around Boston
   - Around Hartford CT
   - East Coast Greenway
   - BikeMapCode
