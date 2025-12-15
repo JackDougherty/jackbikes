@@ -9,7 +9,7 @@ categories:
 ---
 This week concludes my twice-a-week multi-modal commute from our new home in the Roslindale neighborhood of Boston to my current place of employment at Trinity College in Hartford CT. When Beth and I made the big decision to move to Boston, I encouraged us to do it during my final semester of teaching during the fall (rather than waiting until the winter), and I readily agreed to commute to teach my Monday & Wednesday morning classes for three weeks of November and one week of December. Because I'm a morning person, who loves public transit, and am always looking for a good excuse to pedal around on my Brompton folding bike!
 
-{% include figure image_path="images/2025/bike-train-bus-commute.jpg" alt="bike-train-bus commute" caption="My bike-to-train-to-bus-and-bike-to-campus commute from Boston to Hartford" %}{: .align-center style="width:50%;"}
+{% include figure image_path="images/2025/bike-train-bus-commute.jpg" alt="bike-train-bus commute" caption="My bike-to-train-to-bus-and-bike-to-campus commute from Boston to Hartford" %}{: .align-center style="width:90%;"}
 
 Here's my commute, which was perfectly fine twice-a-week for four weeks, but wouldn't want to do it every day:
 
