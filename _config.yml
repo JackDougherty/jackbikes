@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jack Dougherty"
-  avatar           : "/images/home/jackbikeslogo.jpg"
+  avatar           : "/images/portfolio/jackbikeslogo.jpg"
   bio              : ""
   location         : "Boston, MA"
   # email
@@ -295,9 +295,22 @@ compress_html:
   ignore:
     envs: development
 
+# Collections  customized: home page = _portfolio contents
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
+  # _portfolio  customized: home page = _portfolio contents
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
   # _posts
   - scope:
       path: "" # not same as pages below
@@ -316,3 +329,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: false
