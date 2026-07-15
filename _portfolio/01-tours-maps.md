@@ -4,7 +4,7 @@ permalink: /tours-maps/
 date: 2026-07-01
 # reminder: chronological layout
 layout: category
-taxonomy: Tours With Maps
+taxonomy: Tours with Maps
 entries_layout: grid
 header:
   teaser: images/portfolio/touring-600x400.jpg
