@@ -3,7 +3,7 @@ title: 'Reconnecting with Old Friends in California, Feb 2024'
 date: 2024-02-23
 permalink: /california-2024/
 categories:
-  - Tours with Maps
+  - Tours and Maps
   - BikeMapCode
   - Brompton
   - Reflections

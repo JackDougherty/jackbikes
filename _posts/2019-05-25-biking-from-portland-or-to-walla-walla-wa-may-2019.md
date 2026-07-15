@@ -3,7 +3,7 @@ title: Biking from Portland OR to Walla Walla WA, May 2019
 date: 2019-05-25T02:16:40-04:00
 permalink: /2019-biking-from-portland-or-to-walla-walla-wa/
 categories:
-  - Tours with Maps
+  - Tours and Maps
 ---
 Follow my bike tour and bakery hunt from Portland, Oregon to Walla Walla, Washington from May 21-24th, 2019. Click items in the map to view details, or view the [full-screen map](https://jackdougherty.github.io/bikemapcode/#8/45.749/-120.533) and [photo album](https://flic.kr/s/aHskRnUmKB). See also my daily journal entries below the map.
 

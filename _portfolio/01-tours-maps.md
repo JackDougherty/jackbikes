@@ -1,10 +1,10 @@
 ---
-title: "Bike Tours with Maps"
-permalink: /tours-maps/
+title: "Bike Tours and Maps"
+permalink: /bike-tours-and-maps/
 date: 2026-07-01
 # reminder: chronological layout
 layout: category
-taxonomy: Tours with Maps
+taxonomy: Tours and Maps
 entries_layout: grid
 header:
   teaser: images/portfolio/touring-600x400.jpg

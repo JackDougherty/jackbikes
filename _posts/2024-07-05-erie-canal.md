@@ -3,7 +3,7 @@ title: 'Fair Haven to Albany NY on the Erie Canal Trail 2024'
 date: 2024-07-05
 permalink: /erie-canal-2024/
 categories:
-  - Tours with Maps
+  - Tours and Maps
   - Reflections
 ---
 On July 3-4-5th 2024, I biked from my mother's summer camp in Fair Haven NY (a bay on Lake Ontario) to the Erie Canal & [Empire Trail](https://empiretrail.ny.gov) bike path thru Syracuse to Albany. Although much of the route is a marked bike path, it's a mix single-track gravel, paved bike path, rural back roads, and city streets. Beware of sections under construction around Rome NY, which was a mess when I rode. Good tent camping locations described below. [View the full-screen map of my 230-mile route and click "photos" in the upper-right corner](https://jackdougherty.github.io/bikemapcode/index.html) or [explore and download my route on Cycle.Travel](https://cycle.travel/map/journey/668671) or [view my photo album on Flickr](https://flic.kr/s/aHBqjBMXAw).

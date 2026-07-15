@@ -3,7 +3,7 @@ title: Northwest bike tour, by the numbers
 date: 2014-09-12T17:37:11-04:00
 permalink: /2014-northwest-numbers/
 categories:
-  - Tours with Maps
+  - Tours and Maps
   - Northwest Tour 2014
 ---
 A numerical review of my bike tour, with apologies to [Harper's Index](http://harpers.org/departments/harpers-index/)

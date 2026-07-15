@@ -5,7 +5,7 @@ last_modified_at: 2024-01-01
 permalink: /2019-sample-post/
 excerpt: "A unique one-line post summary that appears in archive list and metadata for SEO"
 categories:
-  - Tours with Maps
+  - Tours and Maps
   - Around Boston
   - Around Hartford CT
   - East Coast Greenway

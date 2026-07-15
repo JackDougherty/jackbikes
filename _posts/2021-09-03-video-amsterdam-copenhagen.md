@@ -3,7 +3,7 @@ title: 'Video: Biking from Amsterdam to Copenhagen'
 date: 2021-09-03
 permalink: /2021-video-amsterdam-copenhagen/
 categories:
-  - Tours with Maps
+  - Tours and Maps
   - Europe
   - BikeMapCode
   - Reflections

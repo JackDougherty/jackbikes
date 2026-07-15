@@ -3,7 +3,7 @@ title: 'Bikes, Trains, and Quality Time with Eva'
 date: 2021-08-29
 permalink: /2021-bikes-trains-quality-time/
 categories:
-  - Tours with Maps
+  - Tours and Maps
   - Europe
   - BikeMapCode
   - Reflections

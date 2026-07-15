@@ -3,7 +3,7 @@ title: 'Vermont-Quebec "The Flat Parts" Bike Tour, July 2024'
 date: 2024-07-30
 permalink: /vermont-quebec-2024/
 categories:
-  - Tours with Maps
+  - Tours and Maps
   - Reflections
 ---
 If you're looking for a bike-friendly city, visit Montreal, Canada, which deeply impressed me during my four-night Vermont-Quebec tour. The experience pushes people like me, who live in car-centric US cities and suburbs, to reconsider what's possible when changing both the infrastructure and the culture around transportation. Check it out and see for yourself! See my 200-mile journey with photos in the map below or explore and download [my route on Cycle.Travel](https://cycle.travel/map/journey/626847).

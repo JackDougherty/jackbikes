@@ -3,7 +3,7 @@ title: 'Bloomfield Greenway Section 1'
 date: 2019-10-27
 permalink: /2019-bloomfield-greenway-1/
 categories:
-  - Tours with Maps
+  - Tours and Maps
   - Around Hartford CT
   - East Coast Greenway
 ---

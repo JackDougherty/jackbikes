@@ -5,7 +5,7 @@ permalink: /ecg-west-hartford/
 categories:
   - Around Hartford CT
   - East Coast Greenway
-  - Tours with Maps
+  - Tours and Maps
 ---
 *Updated maps in 2023*
 
