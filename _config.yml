@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
+remote_theme             : "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "JackBikes.org"
 title_separator          : "-"
-subtitle                 : "adventure, advocacy, and an appetite on wheels"
+subtitle                 : "advocacy, adventure, and an appetite on wheels"
 name                     : ""
-description              : "JackBikes.org: adventure, advocacy, and an appetite on wheels"
+description              : "JackBikes.org: advocacy, adventure, and an appetite on wheels"
 url                      : "https://jackbikes.org" # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-url
 baseurl                  : # the subpath of your site, e.g. "/blog" - BUT for GitHub Pages site with custom domain, there is NO subpath
 repository               : "jackdougherty/jackbikes"
@@ -117,11 +117,12 @@ author:
   avatar           : "/images/home/jackbikeslogo.jpg"
   bio              : ""
   location         : "Boston, MA"
-  # email            : " "
+  # email
+  fediverse        : "@mstdn.social@jackdougherty"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jackdrty@gmail.com
+      url: mailto:jack@jackdougherty.copyright
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mstdn.social/@jackdougherty"
@@ -137,7 +138,7 @@ footer:
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
-    url: mailto:jackdrty@gmail.com
+    url: mailto:jack@jackdougherty.org
   - label: "Mastodon"
     icon: "fab fa-fw fa-mastodon"
     url: "https://mstdn.social/@jackdougherty"
@@ -207,7 +208,8 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  quiet_deps: true
+  silence_deprecations: ['import']
 
 # Outputting
 permalink: /:categories/:title/
