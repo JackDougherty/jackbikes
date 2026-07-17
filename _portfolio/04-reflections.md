@@ -7,9 +7,9 @@ layout: category
 taxonomy: Reflections
 entries_layout: grid
 header:
-  teaser: images/portfolio/reflections-600x400.jpg
+  teaser: images/portfolio/placeholder-600x400.jpg
 excerpt: "add excerpt here"
 ---
-{% include figure image_path="images/portfolio/reflections-600x400.jpg" alt="reflections while bike riding" caption="ADD CAPTION HERE" %}{: .align-center style="width:90%;"}
+{% include figure image_path="images/portfolio/placeholder-600x400.jpg" alt="reflections while bike riding" caption="ADD CAPTION HERE" %}{: .align-center style="width:90%;"}
 
 TODO intro text
