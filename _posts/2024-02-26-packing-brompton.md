@@ -3,8 +3,8 @@ title: 'Packing Brompton for Airline Baggage'
 date: 2024-02-26
 permalink: /packing-brompton/
 categories:
-  - Tours and Maps
-  - Brompton
+  - Bike Tours
+  - Bikes and Gear
   - Reflections
 ---
 After years of listening to friends rave about their Brompton folding bicycles, I finally bought one for a series of multimodal trips through different cities, both in the US and abroad. On my recent one-week California trip, I flew with the bike, checked as regular airline baggage, into San Diego, then combined different modes of transit up the coast to San Francisco. I pedaled along the Pacific Ocean for a few days, but also packed the bike in my family's rental car, took it on my Amtrak train from LA to Oakland, on the city bus to my son's neighborhood at night, more pedaling around the Bay Area, then eventually on the BART train to the San Francisco airport for my return trip home.

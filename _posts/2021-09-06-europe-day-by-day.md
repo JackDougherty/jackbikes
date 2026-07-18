@@ -3,7 +3,7 @@ title: 'Day by Day: Europe 2021 Bike Tour with Interactive Map'
 date: 2021-09-06
 permalink: /2021-europe-day-by-day/
 categories:
-  - Tours and Maps
+  - Bike Tours
   - Europe
   - BikeMapCode
   - Reflections

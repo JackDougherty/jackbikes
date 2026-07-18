@@ -4,8 +4,8 @@ date: 2024-04-15
 last_modified_at: 2024-04-21
 permalink: /mini-multi-modal-europe/
 categories:
-  - Tours and Maps
-  - Brompton
+  - Bike Tours
+  - Bikes and Gear
   - Reflections
   - Europe
 ---

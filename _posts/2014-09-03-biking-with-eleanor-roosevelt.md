@@ -3,7 +3,7 @@ title: Biking with Eleanor Roosevelt
 date: 2014-09-03T02:05:55-04:00
 permalink: /2014-biking-with-eleanor-roosevelt/
 categories:
-  - Tours and Maps
+  - Bike Tours
   - Reflections
   - Northwest Tour 2014
 ---

@@ -3,7 +3,7 @@ title: 'Copenhagen-Hamburg Warmshowers'
 date: 2021-08-31
 permalink: /2021-copenhagen-hamburg-warmshowers/
 categories:
-  - Tours and Maps
+  - Bike Tours
   - Europe
   - BikeMapCode
   - Reflections

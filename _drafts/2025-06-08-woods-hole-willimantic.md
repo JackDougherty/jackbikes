@@ -3,7 +3,7 @@ title: 'Seeing Friends on the Nearly-Sixty Tours'
 date: 2025-06-08
 permalink: /2025-nearly-sixty-tours/
 categories:
-  - Tours and Maps
+  - Bike Tours
   - Around Hartford CT
   - East Coast Greenway
   - BikeMapCode

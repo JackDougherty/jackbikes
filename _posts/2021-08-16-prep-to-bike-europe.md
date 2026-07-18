@@ -3,7 +3,7 @@ title: 'Prep to Bike Europe'
 date: 2021-08-16
 permalink: /2021-prep-to-bike-europe
 categories:
-  - Tours and Maps
+  - Bike Tours
   - Europe
   - BikeMapCode
   - Reflections

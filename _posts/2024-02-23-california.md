@@ -3,9 +3,9 @@ title: 'Reconnecting with Old Friends in California, Feb 2024'
 date: 2024-02-23
 permalink: /california-2024/
 categories:
-  - Tours and Maps
+  - Bike Tours
   - BikeMapCode
-  - Brompton
+  - Bikes and Gear
   - Reflections
 ---
 You can't make "new" old friends, so find ways to reconnect, preferably by bike.
