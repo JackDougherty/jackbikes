@@ -8,7 +8,7 @@ taxonomy: Safer Streets for All
 entries_layout: grid
 header:
   teaser: images/portfolio/safer-streets-600x400.jpg
-excerpt: "Let's improve walking, biking & transit"
+excerpt: "Improving walking, biking & transit"
 ---
 {% include figure image_path="images/portfolio/safer-streets-600x400.jpg" alt="safer streets for all" caption="ADD CAPTION HERE" %}{: .align-center style="width:90%;"}
 

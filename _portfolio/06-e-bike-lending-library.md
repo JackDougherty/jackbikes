@@ -8,7 +8,7 @@ taxonomy: E-Bike Lending Library
 entries_layout: grid
 header:
   teaser: images/portfolio/e-bike-lending-library-600x400.jpg
-excerpt: "Borrow an e-bike for free"
+excerpt: "Borrow an e-bike for free at Community Pedal Power"
 ---
 {% include figure image_path="images/portfolio/e-bike-lending-library-600x400.jpg" alt="e-bike lending library" caption="ADD CAPTION HERE" %}{: .align-center style="width:90%;"}
 
