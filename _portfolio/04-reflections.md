@@ -8,7 +8,7 @@ taxonomy: Reflections
 entries_layout: grid
 header:
   teaser: images/portfolio/placeholder-600x400.jpg
-excerpt: "add excerpt here"
+excerpt: "What do you think about while biking?"
 ---
 {% include figure image_path="images/portfolio/placeholder-600x400.jpg" alt="reflections while bike riding" caption="ADD CAPTION HERE" %}{: .align-center style="width:90%;"}
 

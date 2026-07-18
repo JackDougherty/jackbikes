@@ -8,7 +8,7 @@ date: 2026-07-08
 # entries_layout: grid
 header:
   teaser: images/portfolio/placeholder-600x400.jpg
-excerpt: "add excerpt here"
+excerpt: "Convert your minivan into a camper"
 ---
 {% include figure image_path="images/portfolio/placeholder-600x400.jpg" alt="minivan camper" caption="ADD CAPTION HERE" %}{: .align-center style="width:90%;"}
 

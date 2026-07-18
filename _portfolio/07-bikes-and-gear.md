@@ -8,7 +8,7 @@ taxonomy: Bikes and Gear
 entries_layout: grid
 header:
   teaser: images/portfolio/placeholder-600x400.jpg
-excerpt: "add excerpt here"
+excerpt: "About my Brompton, Priority, and other bikes and touring gear"
 ---
 {% include figure image_path="images/portfolio/placeholder-600x400.jpg" alt="bikes and gear" caption="ADD CAPTION HERE" %}{: .align-center style="width:90%;"}
 

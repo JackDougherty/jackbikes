@@ -8,7 +8,7 @@ taxonomy: Bike Tours
 entries_layout: grid
 header:
   teaser: images/portfolio/bike-tours-600x400.jpg
-excerpt: "ADD excerpt here"
+excerpt: "Exploring our world on two wheels"
 ---
 {% include figure image_path="images/portfolio/bike-tours-600x400.jpg" alt="bike tours" caption="Smiling in the rain on a bike tour with my daughter Eva, 2021" %}{: .align-center style="width:90%;"}
 
