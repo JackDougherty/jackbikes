@@ -7,12 +7,11 @@ date: 2026-07-08
 # taxonomy: Bikes and Gear
 # entries_layout: grid
 header:
-  teaser: images/portfolio/placeholder-600x400.jpg
-excerpt: "Convert your minivan into a camper"
+  teaser: images/portfolio/minivan-camper-600x400.jpg
+excerpt: "How we converted our minivan into a camper"
 ---
-{% include figure image_path="images/portfolio/placeholder-600x400.jpg" alt="minivan camper" caption="ADD CAPTION HERE" %}{: .align-center style="width:90%;"}
 
-*Originally posted as our pandemic project in 2021*
+*Originally posted as a pandemic project in 2021*
 
 We built a minivan camper that slides into 2016 Toyota Sienna to give us more flexibility for long-weekend trips and long-distance bike touring. Our custom design features a small kitchen and refrigerator, a portable power station with a solar panel, and a couch that converts into a full-size bed. Watch our [first-stage build YouTube video from January 2021](https://youtu.be/_hmhEr1s7F0):
 
