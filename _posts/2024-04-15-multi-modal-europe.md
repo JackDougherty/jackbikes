@@ -5,6 +5,7 @@ last_modified_at: 2024-04-21
 permalink: /mini-multi-modal-europe/
 categories:
   - Bike Tours
+  - Bike Maps
   - Bikes and Gear
   - Reflections
   - Europe

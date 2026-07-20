@@ -2,18 +2,19 @@
 title: 'Sample Post'
 date: 2019-01-01
 last_modified_at: 2024-01-01
-permalink: /2019-sample-post/
+permalink: /sample-post/
 excerpt: "A unique one-line post summary that appears in archive list and metadata for SEO"
 categories:
+  - Safer Streets for All
   - Bike Tours
-  - Around Boston
-  - Around Hartford CT
-  - East Coast Greenway
-  - BikeMapCode
-  - Bikes and Gear
+  - Bike Maps
   - Reflections
-  - Northwest Tour 2014
+  - Bike Safety Coach
+  - E-Bike Lending Library
+  - Bikes and Gear
   - Europe
+  - Northwest
+  - East Coast Greenway
 ---
 ## Markdown formatting with Minimal Mistakes Jekyll theme
 Text after header appears in new line.  
