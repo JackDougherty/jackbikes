@@ -3,6 +3,7 @@ title: 'West Hartford Crash Map'
 date: 2022-05-02
 permalink: /2022-west-hartford-crash-map/
 categories:
+  - Safer Streets for All 
   - Around Hartford CT
 ---
 *Updated links in 2023*

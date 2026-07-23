@@ -2,7 +2,7 @@
 title: 'Sample Post'
 date: 2019-01-01
 last_modified_at: 2024-01-01
-permalink: /sample-post/
+permalink: /YEAR-sample-post/
 excerpt: "A unique one-line post summary that appears in archive list and metadata for SEO"
 categories:
   - Safer Streets for All
@@ -12,6 +12,8 @@ categories:
   - Bike Safety Coach
   - E-Bike Lending Library
   - Bikes and Gear
+  - Around Boston
+  - Around Hartford CT
   - Europe
   - Northwest
   - East Coast Greenway

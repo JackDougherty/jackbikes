@@ -4,9 +4,9 @@ date: 2021-08-31
 permalink: /2021-copenhagen-hamburg-warmshowers/
 categories:
   - Bike Tours
-  - Europe
-  - BikeMapCode
+  - Bike Maps
   - Reflections
+  - Europe
 ---
 I've hosted many bike travelers at our U.S. home over the past three years through [Warmshowers](https://warmshowers.org), an international network that connects members for overnight stays at no cost. Now for the very first time, my daughter Eva and I were guests at a very unique Warmshowers community in northern Germany, and it's been one of the most memorable experiences of our two-week Europe bike trip.
 

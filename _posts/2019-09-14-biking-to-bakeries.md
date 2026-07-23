@@ -3,7 +3,7 @@ title: 'Biking to Bakeries in Hartford Tour 2019'
 date: 2019-09-14
 permalink: /2019-biking-to-bakeries/
 categories:
-  - Bike Tours
+  - Bike Maps
   - Around Hartford CT
 ---
 25 riders joined our "Biking to Bakeries" in Hartford tour today and gained 0 calories (according to dubious calculations).

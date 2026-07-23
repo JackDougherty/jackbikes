@@ -3,7 +3,9 @@ title: 'Willimantic: The Cycling Trail Connector'
 date: 2016-06-05T23:11:31-04:00
 permalink: /2016-willimantic/
 categories:
+  - Bike Maps
   - Around Hartford CT
+  - East Coast Greenway
 ---
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/56513965@N06/albums/72157668920125352" title="Hop River - Air Line trail Willimantic CT 2016"><img src="https://live.staticflickr.com/7793/27487139745_fa24976a63_z.jpg" width="640" height="479" alt="Hop River - Air Line trail Willimantic CT 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

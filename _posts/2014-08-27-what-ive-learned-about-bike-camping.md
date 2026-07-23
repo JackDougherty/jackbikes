@@ -3,6 +3,7 @@ title: 'What I've learned about bike camping'
 date: 2014-08-27T11:19:45-04:00
 permalink: /2014-what-ive-learned-about-bike-camping/
 categories:
+  - Bike Tours
   - Northwest Tour 2014
   - Reflections
 ---

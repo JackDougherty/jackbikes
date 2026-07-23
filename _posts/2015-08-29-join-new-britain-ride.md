@@ -4,6 +4,7 @@ date: 2015-08-29T17:55:49-04:00
 permalink: /2015-join-new-britain-ride/
 categories:
   - Around Hartford CT
+  - Bike Maps
 ---
 ![DiscoverCT2015 logo](/images/2015/DiscoverCT2015.jpg)
 

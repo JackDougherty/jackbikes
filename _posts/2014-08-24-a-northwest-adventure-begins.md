@@ -3,6 +3,7 @@ title: A Northwest adventure begins
 date: 2014-08-24T23:34:25-04:00
 permalink: /2014-a-northwest-adventure-begins/
 categories:
+  - Bike Tours
   - Northwest Tour 2014
 ---
 {% include figure image_path="images/2014/CeceJackFreddy.jpg" caption="My niece Cece and nephew Freddy help launch my ride." %}

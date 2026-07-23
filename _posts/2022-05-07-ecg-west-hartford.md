@@ -3,9 +3,9 @@ title: 'East Coast Greenway Alternate Route from New Haven to West Hartford CT'
 date: 2023-09-16
 permalink: /ecg-west-hartford/
 categories:
+  - bike Maps
   - Around Hartford CT
   - East Coast Greenway
-  - Bike Tours
 ---
 *Updated maps in 2023*
 
@@ -23,6 +23,6 @@ Here's a brief summary 37-mile alternative route, heading north from New Haven t
 - Take a right on Reservoir Road / North Shuttle Road for a beautiful ride around the reservoir, then Walnut Hill Park and the New Britain Museum of American Art, before arriving in downtown New Britain.
 - In downtown New Britain, turn right into the CT fastrak bus station and follow the protected Multi-Use Trail that *generally* runs alongside the dedicated bus route. Note that when you cross East Street - Route 175, the protected trail looks like a sidewalk for a half mile, then turn right into the next CT Fastrak bus station to pick up the Trail again. Excluding this half-mile interruption, the protected Multi-Use Trail runs for almost 8 miles from New Britain to Newington.
 - When the Multi-Use Trail ends near the Newington Junction Station, take a right onto West Hill Road, then a quick left onto Willard Road, which continues and becomes Newington Road, heading to West Hartford. While this road is busy during rush hour, it has a wide shoulder and is flat.
-- When Newington Road ends, one option is to go straight through the intersection onto the sidewalk entrance into the Elmwood Community Center, where in the back parking lot you can access the Trout Brook Trail. Another option is to turn left onto New Britain Ave for 100 feet, then make a quick right onto Quaker Lane. 
+- When Newington Road ends, one option is to go straight through the intersection onto the sidewalk entrance into the Elmwood Community Center, where in the back parking lot you can access the Trout Brook Trail. Another option is to turn left onto New Britain Ave for 100 feet, then make a quick right onto Quaker Lane.
 
 <iframe src="https://ridewithgps.com/embeds?type=route&id=44306831&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>

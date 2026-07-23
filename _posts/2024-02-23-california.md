@@ -4,7 +4,7 @@ date: 2024-02-23
 permalink: /california-2024/
 categories:
   - Bike Tours
-  - BikeMapCode
+  - Bke Maps
   - Bikes and Gear
   - Reflections
 ---

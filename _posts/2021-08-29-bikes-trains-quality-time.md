@@ -4,8 +4,8 @@ date: 2021-08-29
 permalink: /2021-bikes-trains-quality-time/
 categories:
   - Bike Tours
+  - Bike Maps
   - Europe
-  - BikeMapCode
   - Reflections
 ---
 Over the past week, Eva and I have loved biking in the Netherlands. As you'll see in our map below, we began in Amsterdam, rode west to Haarlem, zoomed down the North Sea trail, then headed inland to explore rural farming areas, small towns, and the major cities of Utrecht and Zwolle. Overall we've enjoyed relatively good weather, with only a couple of hours of scattered rain showers, and one day of biking into 10-15 mph headwinds from the north. In our first week we rode about 375 km (230 miles).

@@ -4,9 +4,9 @@ date: 2021-09-06
 permalink: /2021-europe-day-by-day/
 categories:
   - Bike Tours
-  - Europe
-  - BikeMapCode
+  - Bike Maps
   - Reflections
+  - Europe
 ---
 {% include figure image_path="images/2021/2021-eva-jack-covered-table.jpg" caption="Eva and me on the bike paths and at one of our campsites." %}
 

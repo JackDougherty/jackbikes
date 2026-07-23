@@ -3,7 +3,6 @@ title: 'Packing Brompton for Airline Baggage'
 date: 2024-02-26
 permalink: /packing-brompton/
 categories:
-  - Bike Tours
   - Bikes and Gear
   - Reflections
 ---

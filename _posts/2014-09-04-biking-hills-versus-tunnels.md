@@ -3,6 +3,7 @@ title: Biking Hills versus Tunnels
 date: 2014-09-04T22:44:27-04:00
 permalink: /2014-biking-hills-versus-tunnels/
 categories:
+  - Bike Tours
   - Northwest Tour 2014
   - Reflections
 ---

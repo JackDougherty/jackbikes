@@ -4,9 +4,10 @@ date: 2021-09-03
 permalink: /2021-video-amsterdam-copenhagen/
 categories:
   - Bike Tours
-  - Europe
-  - BikeMapCode
+  - Bike Maps
   - Reflections
+  - Europe
+  
 ---
 Here's our [six-minute amateur video](https://youtu.be/rZ-AlByTwTE) that summarizes what my daughter Eva and I learned while biking and camping across The Netherlands, Northern Germany, and Denmark to visit my other daughter Maya in Copenhagen. See also our two-week [route and photo map](https://jackdougherty.github.io/bikemapcode/europe.html), [all of our European bike tour photos on Flickr](https://www.flickr.com/photos/56513965@N06/albums/72157719685944554), and [all posts about the Europe bike tour](https://jackbikes.org/categories/#europe).
 

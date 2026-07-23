@@ -3,6 +3,7 @@ title: Biking makes me VERY hungry
 date: 2014-08-31T19:59:26-04:00
 permalink: /2014-biking-makes-me-very-hungry/
 categories:
+  - Bike Tours
   - Northwest Tour 2014
   - Reflections
 ---

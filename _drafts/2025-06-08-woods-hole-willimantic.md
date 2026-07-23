@@ -6,7 +6,7 @@ categories:
   - Bike Tours
   - Around Hartford CT
   - East Coast Greenway
-  - BikeMapCode
+  - Bike Maps
   - Reflections
 ---
 Back was when I was younger, I had this notion in my head about biking *twice* my age in miles to celebrate my birthday. So when I turned 50 years old a decade ago, I pushed myself to bike 100 miles from Hartford CT to Providence RI. Cyclists call this 100-mile trip a *century* ride, and while the British measure is totally arbitrary, pedaling that distance helped persuade me that I wasn't really getting that much older. At least I *felt* younger, for a little while longer.

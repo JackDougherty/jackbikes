@@ -3,6 +3,7 @@ title: My Culinary Guide to Corvallis
 date: 2014-09-07T00:59:28-04:00
 permalink: /2014-my-culinary-guide-to-corvallis/
 categories:
+  - Bike Tours 
   - Northwest Tour 2014
 ---
 {% include figure image_path="images/2014/MountainBikeTrailOR.jpg" caption="My expression when realizing I was on a mountain bike trail" %}

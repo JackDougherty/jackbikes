@@ -5,7 +5,7 @@ permalink: /2019-disagreement/
 categories:
   - Around Hartford CT
   - East Coast Greenway
-  - BikeMapCode
+  - Bike Maps
   - Reflections
 ---
 Last week I turned 54 years old, so took the day off from the computer and headed out on a day-long bike ride. Each year on my birthday I try to take a long ride to persuade myself that the passage of time does not directly affect my physical condition. At least, that's what I tried to tell myself, but my body had an opinion of its own.

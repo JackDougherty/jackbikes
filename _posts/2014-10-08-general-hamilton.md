@@ -3,6 +3,7 @@ title: How General Andy Hamilton led us across the Susquehanna River
 date: 2014-10-08T08:43:56-04:00
 permalink: /2014-general-hamilton/
 categories:
+  - Bike Tours
   - East Coast Greenway
 ---
 When George Washington crossed the Delaware River, his boats showed up on time. But when the East Coast Greenway [Week A Year](http://www.greenway.org/way-tour-2014) cyclists tried to cross the Susquehanna River this week, we had to improvise. Thanks to ECG Mid-Atlantic Trail Coordinator Andy Hamilton (aka General Hamilton), our group of forty-one riders arrived safely.

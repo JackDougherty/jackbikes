@@ -4,6 +4,7 @@ date: 2016-06-26T23:33:01-04:00
 permalink: /2016-cheshire-new-haven/
 categories:
   - Around Hartford CT
+  - East Coast Greenway
 ---
 On Saturday I rode south from Hartford to check out a newly-built segment of the East Coast Greenway in Cheshire, CT, and continued on to learn about bicycle history at the Arts and Ideas Festival in New Haven, CT.
 

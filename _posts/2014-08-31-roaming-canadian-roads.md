@@ -4,6 +4,7 @@ date: 2014-08-31T18:45:28-04:00
 permalink: /2014-roaming-canadian-roads/
 categories:
   - Bike Tours
+  - Bike Maps
   - Northwest Tour 2014
 ---
 I love me some maps. Can't leave home without 'em. So for my bike tour I sought out a replacement for the Google Maps app on my smartphone, since there are times when I cannot access a cellphone signal, or more commonly, would prefer not to pay roaming charges to my provider for venturing into Canada.

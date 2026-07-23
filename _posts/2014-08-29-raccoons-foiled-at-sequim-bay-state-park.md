@@ -3,6 +3,7 @@ title: Raccoons Foiled at Sequim Bay State Park
 date: 2014-08-29T10:57:33-04:00
 permalink: /2014-accoons-foiled-at-sequim-bay-state-park/
 categories:
+  - Bike Tours
   - Northwest Tour 2014
 ---
 {% include figure image_path="images/2014/RaccoonsFoiled.jpg" caption="Hanging my food bags (and wet clothing) on the wire at Sequim Bay State Park." %}
