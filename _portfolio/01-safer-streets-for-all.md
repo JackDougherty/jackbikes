@@ -10,6 +10,6 @@ header:
   teaser: images/portfolio/safer-streets-600x400.jpg
 excerpt: "Improving walk & bike & transit"
 ---
-{% include figure image_path="images/portfolio/safer-streets-600x400.jpg" alt="safer streets for all" caption="ADD CAPTION HERE" %}{: .align-center style="width:90%;"}
+{% include figure image_path="images/portfolio/safer-streets-600x400.jpg" alt="safer streets for all" caption="Mass Crash Map screenshot" %}{: .align-center style="width:90%;"}
 
-TODO intro text
+Let's work together to improve walking & biking & transit for all.
