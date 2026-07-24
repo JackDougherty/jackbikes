@@ -14,7 +14,7 @@ excerpt: "Sharing routes in Boston & beyond"
 Sharing bike-friendly routes around Boston, and maps from my bike tours around US, Canada, and Europe.
 
 ### Boston-area bike maps
-Bike-friendly routes from Roslindale neighborhood thru the Arboretum
+Bike-friendly routes from Roslindale thru the Arboretum
 
 {% include figure image_path="images/2026/roslindale-thru-arboretum.jpg" alt="Rozzie thru Arboretum map caption="[Download PDF: Rozzie thru Arboretum map](/images/2026/roslindale-thru-arboretum.pdf) %}{: .align-center style="width:60%;"}
 
