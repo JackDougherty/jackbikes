@@ -22,10 +22,10 @@ Below are free educational guides I created to help cyclists record street-view 
 
 [Download the INTRO Guide to GoPro Max 360 Camera and Upload to Mapillary](https://docs.google.com/document/d/1sPdOau3TW0IAqlDHIdXTPG1uPBaZdyM5cEQ1E_mNKYo/edit?usp=sharing) from public Google Doc
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT-AuInfK2kulzubsZLuBuZL2h0HtbN4KDl7elQbjr-9viElo_HUp5YF400BjO2fjVlIPR739pM8flt/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vT-AuInfK2kulzubsZLuBuZL2h0HtbN4KDl7elQbjr-9viElo_HUp5YF400BjO2fjVlIPR739pM8flt/pub?embedded=true" width="100%" height="600px"></iframe>
 
 [Download the ADVANCED Guide to GoPro Max Bike Mapping and Video Export](https://docs.google.com/document/d/1KF5GQ4zfcqKCRJ8ttJzcQs7VxgsMXRMlQpTE3FoRIaw/edit?usp=sharing) from public Google Doc
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT_3TRAHkd2XWaSbcKy_a59z2uJJHe6WD48wg7azp8jz0a7jI5QqJ_-PmB7ik2pe7NMIUaYzCCYwTbF/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vT_3TRAHkd2XWaSbcKy_a59z2uJJHe6WD48wg7azp8jz0a7jI5QqJ_-PmB7ik2pe7NMIUaYzCCYwTbF/pub?embedded=true" width="100%" height="600px"></iframe>
 
-TO COME: 360 video playback, editing, and export to regular video formats! 
+TO COME: 360 video playback, editing, and export to regular video formats!
