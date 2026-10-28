@@ -2,7 +2,7 @@
 title: 'Sample Post'
 date: 2019-01-01
 last_modified_at: 2024-01-01
-permalink: /YEAR-sample-post/
+permalink: /sample-post-YEAR/
 excerpt: "A unique one-line post summary that appears in archive list and metadata for SEO"
 categories:
   - Safer Streets for All
